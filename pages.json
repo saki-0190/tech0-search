@@ -1,0 +1,894 @@
+[
+  {
+    "id": 1,
+    "url": "https://tanaka-intro.netlify.app",
+    "title": "田中太郎の自己紹介",
+    "description": "大手メーカー勤務、DX推進担当として新規事業開発に従事",
+    "keywords": [
+      "DX",
+      "製造業",
+      "新規事業"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "自己紹介"
+  },
+  {
+    "id": 2,
+    "url": "https://suzuki-product.netlify.app",
+    "title": "スマート冷蔵庫プロジェクト",
+    "description": "IoT技術を活用した次世代家電の企画提案",
+    "keywords": [
+      "IoT",
+      "家電",
+      "AI",
+      "データ活用"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "プロダクト"
+  },
+  {
+    "id": 3,
+    "url": "https://yamamoto-dx.netlify.app",
+    "title": "製造現場DX改革",
+    "description": "工場の生産性を30%向上させたDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "製造業",
+      "生産性",
+      "IoT"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "事例"
+  },
+  {
+    "id": 4,
+    "url": "https://sato-ai-business.netlify.app",
+    "title": "AIで変わるビジネスの未来",
+    "description": "ChatGPTを活用した業務効率化の実践事例を紹介するLP",
+    "keywords": [
+      "AI",
+      "ChatGPT",
+      "業務効率化",
+      "DX"
+    ],
+    "author": "佐藤美咲",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "url": "https://nakamura-health.netlify.app",
+    "title": "ヘルスケアDXプラットフォーム",
+    "description": "医療現場にAIを導入して診断精度と業務効率を向上させるサービス",
+    "keywords": [
+      "医療",
+      "AI",
+      "ヘルスケア",
+      "DX"
+    ],
+    "author": "中村健太",
+    "created_at": "2025-01-19",
+    "category": "プロダクト"
+  },
+  {
+    "url": "https://mocchan-room.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "プロフィール 一般的な家庭で生まれ、3人弟妹の一番上で育ったため、人をフォローするのは結構染みついています プライベート 最近の趣味は読書とホットヨガです ずっと好きなのはカフェオレ＆ショートケーキです 仕事 仕事はSI企業で事業企画やっています。モノを作るのが得意な会社なのでどうしてもプロダクトアウトになってしまいます",
+    "links": [],
+    "word_count": 7,
+    "crawled_at": "2026-03-22T16:37:43.273873",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://6947cfb6df1805f8a59dad30--lovely-clafoutis-0b2132.netlify.app/#top",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "Thank you for coming! I’m glad you’re here, and I hope you get to know a little more about me. Make progress. Techのチカラで想いをカタチに profile 名前 深川 裕子 出身地 福岡市（１９７２年生まれ） 幼少期は母の実家がある太宰府市に半分くらい住んでいましたが、ほぼずっと福岡です。 ちなみに母の実家は太宰府天満宮の本殿のお隣です！ history 学歴 福岡市内の小学校入学～大学卒業 高校時代は陸上部で槍投げをしてました！ 勤務先 株式会社福岡銀行（１９９４年入行） 現在７か店目の営業統括部ダイレクトバンキングセンターに所属 約１２年、営業店にてファイナンシャルコンサルタントとして従事、その後５年はバックグラウンドでコンサルタント業務に就いています いままでに約２万人のお客様とお話してきました 弊行には「ゴールベース営業」という考え方があります それは「お客様が実現したい未来に対し、今何が必要なのか？」を真っ先に考えるものです 決して「自分が詳しいこの商品があるから、これを使えば実現できますよ」ではなく「目的のために必要なものをお客様のお声に耳を傾け、対話し、ともに見つけよう」 これは「Tech0」と似ているのではないだろうか？と考えています travel ２０代はアジア、３０代からヨーロッパへと海外旅行に出かけていました。４０代はコロナになる前までは大好きなヨーロッパに足を運んでは美術館と建物探訪をしていました。ちなみに英語圏にはまだ行ったことがありません！ go for a ride 車好き家族が多いせいか、車に乗るのも乗せてもらうのも大好きです！ 私の愛車は「シトロエンＣ３」という車です。九州、特に熊本・大分方面は景色のいいハイウェイがあり、車・バイク・自転車のツーリングの皆さんが名物です。 osanpo 昔はアスリートだったのに・・・ とくに運動をしていない今は、健康維持のためにもいろいろなところに出かけてお散歩をしています。 もちろん街歩きもしますが、福岡は海も山も近いので景色がいいところを選んで、おやつ片手に歩ています。 manga.animation 父が買ってきた少年ジャンプを弟と一緒に読む、そんな漫画一家で育った私。小学生の私は父と一緒に「宇宙戦艦ヤマト」の映画を観に行っていました。 その頃になりたかった職業は「声優、ラジオＤＪ、アニメーター」でした。 tech0 「そう思うなら、なんでおまえがやらんとや？」 入行当時、飲み会の席で同期の男の子に言われた言葉です。 それ以来30年以上、この言葉は呪文のように幾たびも私の頭の中で繰り返されてきました。 日々の業務の中の「なんでこんなことしているんだろう？」や、自分の将来のビジョンに「こんなのがあればいいのに」をいつも考えていることに気づき、 既製品を探そうとしていることにふと、疑問を感じ･･･いつしかまた、この呪文の言葉が「tech0」へと私の背中を押していました。 皆がそれぞれの想いを胸に、同じ方向を向いて共に励まし共感できるというこの環境に出会えたことが、今はとても嬉しいです。 すでにたくさんの不安を実践に移してしまっていますが、決して一人ではなかった。１年走り抜けた先の景色をみなさんと一緒に見たいです。 これからもよろしくお願いいたします。",
+    "links": [],
+    "word_count": 68,
+    "crawled_at": "2026-03-22T16:37:44.490680",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://clinquant-fenglisu-3dd24c.netlify.app/",
+    "title": "自己紹介LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "株式会社Two-Ahead AIエージェントカンパニー。共同創業者として会社設立。自社プロダクトの営業企画を担当。 システム開発会社2（受託開発） Webアプリの要件定義、基本設計、詳細設計、検証、運用/保守など開発以外を幅広く対応。PLを2年、PMを1年担当実績あり。 システム開発会社1（SES） 新卒で入社後、公共機関システムの運用・保守に従事。顧客要望による特定のデータを抽出するSQL作成、新機能の検証&マニュアル作成を担当。 🍺飲酒 ビール大好き！クラフトビールがたくさんあるお店に行くとテンション上がります！家で一人で飲むのも好きです。 🎮ゲーム 最近はポケモンZAを時間がある時に少しずつ進めてます。昔はAPEX頑張ってました！笑 🐬水族館 子供の頃から水族館が大好きで、旅行先にあれば絶対行きます。大学では、魚病学の研究をしていました。 🖥️ドラマ・YouTube ドラマは放送中のを1~2作品ほど毎週見てます。YouTubeは好きなゲーム実況者の動画を常に流し見してます笑",
+    "links": [],
+    "word_count": 14,
+    "crawled_at": "2026-03-22T16:37:45.674252",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://dapper-banoffee-7b78b6.netlify.app/",
+    "title": "My　Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "塵も積もれば山となる Many drops make a shower. 一見無駄でも やり続けると 良いことがあるかも 趣 味 趣 味🍜 出張先でご当地ラーメンを食べるのが趣味です 趣 味🏌️ 下手な横好きですが、誘われればどこでも行きます 履歴 お問い合わせ お気軽にご相談ください",
+    "links": [],
+    "word_count": 20,
+    "crawled_at": "2026-03-22T16:37:46.904490",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://chic-monstera-349a5b.netlify.app/",
+    "title": "Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "SAKI Profile History Likes Contact Profile 名前 さき 出身地 佐賀県 年齢 34歳 職業 地方銀行 血液型 O型 性格 おおざっぱ・心配性 History 誕生 九州で生まれました。夏生まれなので、寒さに弱いです。 大学 大学では化学を学び、リチウムイオン電池の研究をしていました。 就職 福岡の地方銀行に就職。営業店・本部を経験し、2025年4月よりデジタル戦略部に所属しています。 Likes Travel 旅行が好きです！今年は沖縄・鹿児島・大阪など行きました！ 東北に行ってみたい。 Food 食べるの大好き！甘いケーキから豚骨ラーメンまでなんでも大好きです。 Crochet かぎ針であみぐるみを編むのにはまってます！ポケモンや食べ物を編んでます。 Contact ビジネスとテクノロジーのかけ橋に",
+    "links": [],
+    "word_count": 35,
+    "crawled_at": "2026-03-22T16:37:47.589383",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://illustrious-salamander-71183f.netlify.app/",
+    "title": "自己紹介(伊藤淳)",
+    "description": "伊藤淳の自己紹介ページ",
+    "keywords": [],
+    "full_text": "伊藤淳（いとうあつし） 出身地：千葉県松戸市 トピックス 略歴 これまでの経歴 1994年:大学卒業後、銀行入社 2004年:西南学院大学法科大学院 2007年:弁護士登録 2008年:福岡銀行 2010年:福岡財務支局 2013年:金融庁検査局 2016年:LINE(LINE Pay) 2023年:LINE Investment Technologies監査役 2023年:LINE Pay取締役CRO 執筆 主な著作物 『新訂貸出管理回収手続双書 不動産担保(上)』(共著 2010年) 『公務員弁護士のすべて』(共著 2016年) 『Q&Aでわかる業種別法務 銀行』(共著 2019年) 『(改訂版)契約用語使い分け辞典』(共著 2020年) 『新型コロナ危機下の企業法務部門』(共著 2020年) 『Q&Aでわかる業種別法務 キャッシュレス決済』(編著 2022年) 役職 主な対外活動 日本組織内弁護士協会(JILA) 理事 経営法友会 運営委員 知財・無形資産ガバナンス推進協会 代表理事 戦略法務・ガバナンス研究会 副代表幹事 お問い合わせ お気軽にお問い合わせください。",
+    "links": [
+      "https://jila.jp/",
+      "http://www.keieihoyukai.jp/",
+      "https://ipiagpa.net/",
+      "https://sclg.cfo.jp/"
+    ],
+    "word_count": 47,
+    "crawled_at": "2026-03-22T16:37:48.773248",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://ornate-pothos-fdda04.netlify.app/",
+    "title": "NozProfile",
+    "description": "",
+    "keywords": [],
+    "full_text": "人生、道草の達人 20代も学生身分でふらふらと・・・ 30才から働きだしたと思えば、業界も職種も企業文化も規模も違う会社で4社目 そして、40代からは縁もゆかりもない福岡へ移住♪ そんな人生の「のず」です About 名前：野澤 悠（のず） 生年：1980年 出身：神戸市 在住：福岡市 職業：エネルギー企業でDX/IT推進 Life お仕事 今で4社目ですが、文化も規模も異なる企業で、業界・職種を色々とその時の好奇心で変えてきました 1社目：ソフトウェアエンジニア→経営企画 2社目：IT企画→人事 3社目：ビジネス事業運営 4社目：DX/IT企画・推進 のず夫婦～Youtuberとして～ 福岡移住した夫婦としてYoutubeやってます。私の役割は企画とストーリー作成、Web対策です。（動画編集はやってないです♪） ※最近はお出かけできずにアップもできていないですが、、、 マラソン 2年前から会社メンバーと始めたフルマラソン。練習さぼり気味ですが、5回出ました！ 料理 特技はオムレツ作りです。大学自体にはまったホテルのキッチンバイトで、山ほど作ってました Contact お気軽にご連絡ください",
+    "links": [
+      "https://www.youtube.com/@noz_fu-fu/",
+      "https://www.youtube.com/@noz_fu-fu/"
+    ],
+    "word_count": 28,
+    "crawled_at": "2026-03-22T16:37:50.282143",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://non-z-purpose-rev2.netlify.app/",
+    "title": "Mitsuru Oya - My career profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "あなたらしく生きる喜びが、社会の幸せとなる世界を造る。 一人では届かない、爆発的な成果へ。 最高のチームシナジーが生まれる感動体験プロダクトを 一緒に創造しませんか。 Purposeの背景 早すぎた覚醒。 幼少期から「出る杭」過ぎて打たれ続ける日々。自分を抑えるほど、日々が色褪せ、結果も出ませんでした。 個の純度、成果の鋭さ。 個性を発揮できる状態であるほど、良い成果を出すことができる経験を数多くしてきました。 共鳴の先に、未知の成果。 個性と個性が調和し、同じゴールに向かって進むことができたとき、想像以上の成果が出る体験をしてきました。 Purpose達成の原動力 「価値観・得意・興味」の合致。最高のパフォーマンス。 価値観、得意なこと、そして心から興味があること。これらの共集合がPurposeであるため、持てる力をストレスなく、余すことなく発揮することができます。このPurpose設定こそが、迷いを排除し、私を圧倒的なスピードで成果へと直結させる絶対的な駆動源です。 現在不足しているもの CanとMustの超拡大。 私が成し遂げたいこと（Will = Purpose）に対し、現在のスキル（Can）と果たすべき役割（Must）を大きく拡張していく必要があります。これら3つの要素が重なり合い、強固な共集合を形成したとき、初めて私のPurposeが社会で実現できます。Purposeを揺るぎない現実へと昇華させるためには、自己研鑽を積むとともに、同じ志を持つ仲間が必要です。 Purposeの実現に向けて!! CanとMustを拡大!! 同士の探索!! あなたらしく生きる喜びが、 社会の幸せとなる世界を造る。 一人では届かない、爆発的な成果へ。 最高のチームシナジーが生まれる感動体験プロダクトを 一緒に創造しませんか。 いいね！と思ったらボタンをポチっと！",
+    "links": [],
+    "word_count": 28,
+    "crawled_at": "2026-03-22T16:37:51.488233",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://heartfelt-gumdrop-6de990.netlify.app/",
+    "title": "しおりさんの部屋",
+    "description": "",
+    "keywords": [],
+    "full_text": "Home Profile 基本情報 名前：佐藤 栞（しおり） 出身地：神奈川県川崎市 生年月日：1991年4月18日 32年後の同じ日に娘誕生👧 経歴 2017年：東京農工大学大学院 工学府 応用科学専攻修了 2017年：サッポロビール株式会社 入社 2017年：ビール工場パッケージング部 配属 2023年：産休・育休 2024年：復職、DX推進部門へ異動 2025年：Tech0 12期として受講開始 Job ビール製造に関すること 特許：容器判別装置及び容器判別方法 DX推進に関すること リリース：グループ全社員向けのeラーニングを企画 Hobby お酒 お酒を収集するのも飲むのも好きです。自宅の棚に並べて光らせたいという野望があります。 ※これは理想のイメージ おままごと 2歳の娘とのお茶会が楽しい今日この頃。3coinsの木製おままごとグッズのクオリティが高すぎて感動。娘は優雅にコーヒーとマカロンを提供してくれます。かわいい💛 旅行 お金をかけずにマイルのみで旅するのが究極のポイ活。来年のGWはLAでドジャース⚾観戦予定!\" ※写真はバリ島。海外のおしゃれバー好き🍸 Contact",
+    "links": [
+      "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202103004009304769",
+      "https://www.sapporoholdings.jp/news/dit/?id=9408"
+    ],
+    "word_count": 35,
+    "crawled_at": "2026-03-22T16:37:53.007223",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://illustrious-parfait-e03375.netlify.app/",
+    "title": "Daisuke Profile Bootstrap",
+    "description": "",
+    "keywords": [],
+    "full_text": "~ history 1 ~ ~ history 2 ~ ~ history 3 ~ About Me Profile Current Work Career & Future PAST Engineer & Marketing 製造業の技術から始まり、商社でのマーケティング、スタートアップ企業で事業開発PMまでを経験しました。 PRESENT Business Planning 現在は企画職として、オンプレ、クラウドなどのソリューション企画として従事してます。 FUTURE Project Manager or Product Manager ビジネスにおける経験だけでなく技術知識を活かし、プロジェクトや事業そのものをリードする存在を目指します。 Life & Projects Sports 新しいシューズを購入し、いざハーフマラソンへ！（練習出来てないけど、、、） Family 大阪万博では、海外ブースに大興奮でした！ 来年はどこへ行こう・・・ New Business 現在進行中・・・ お気軽にご連絡ください Contact Me ご連絡ありがとうございます。以下のメールアドレスまでご連絡ください。",
+    "links": [],
+    "word_count": 51,
+    "crawled_at": "2026-03-22T16:37:54.159432",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://imaginative-concha-7bb471.netlify.app/",
+    "title": "ぐっさん自己紹介",
+    "description": "",
+    "keywords": [],
+    "full_text": "ぐっさんが釣れました！ Nothing ventured, nothing gained. まず一歩踏み出すことから ABOUT 出身：千葉県千葉市 ぐっさん／山口直生／海と田舎を愛する男、37歳。 千葉で生まれ育ち、自然の中で過ごす時間を大切にしています。 STORY 2011年： 東京農業大学卒業。「食」と「マーケット」を学び、社会人としての一歩を踏み出す。 同年、全農チキンフーズ株式会社に入社。経理・人事・営業を経験。出向先の宮崎県が第2の故郷となる。 2019年： 株式会社共同通信社に経理職として入社。組織を支える立場として、数字と向き合う日々を重ねる。 2023年～現在： より幅広く仕事に関わりたいと考え、異動を希望。現在は広報支援に関わる営業として、企業の想いを社会に届けている。 PHOTO 海が好き 波の音を聞きながら、釣りをしたりのんびり過ごす時間が好きです。子どもと岩場に座って海を眺める。何もしない贅沢が、明日への活力になっています。 我が家の庭 週末は芝刈りしたり、寝転んだり。季節ごとに表情を変える庭を眺めるのが楽しみ。建てた小屋の前で家族でバーベキューしたり、子どもが駆け回ったり。何気ない日常が、ここでは特別な時間です。 水槽のある生活 眺めているだけで癒される。流木や水草、メダカが住む小さな自然。疲れた日は、この水槽の前に座って心を落ち着かせます。 FUTURE これからはテクノロジーを活用し、企業の変革と成長に貢献していきたいです。 収益改善、経費削減といった経営課題に向き合い、実行までできる人材を目指します！",
+    "links": [],
+    "word_count": 28,
+    "crawled_at": "2026-03-22T16:37:55.500658",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://adorable-paletas-62bbc1.netlify.app/",
+    "title": "北欧紀行",
+    "description": "",
+    "keywords": [],
+    "full_text": "北欧紀行 山本竜也 最初の訪問 ～新婚旅行～ 最初の訪問は新婚旅行 昔から憧れていた北欧へ 海外旅行が初めての私は、大手旅行会社のツアーで北欧4か国周遊に出発 北欧はいろいろなところを旅した人が終盤に辿り着く場所との説明 ～人生の先輩方に交じって参加 皆さんに大変よくしていただいた スカンジナビア航空でデンマークの首都コペンハーゲンに到着 デンマークでは城塞を巡り、有名な人魚姫の象も見た ノルウェーでは雄大な大自然と圧巻のフィヨルド（一番行きたかった場所！） スウェーデンではノーベル賞の舞台を堪能 バルト海クルーズ船に揺られてストックホルムからヘルシンキへ 湖とムーミンの国フィンランド 夢のような11日間はあっという間に過ぎた 絶対にまた来るぞ！ 冬 ～極夜 オーロラを探して 死ぬまでに一度は見てみたいと夢見たオーロラを見に再び北欧へ（今回はフィンランド航空）。 行きの機内でトラブル発生！乗客のご老人が急に苦しみだして「医療関係の方はいらっしゃいますか？」のアナウンス。 看護師の妻が名乗り出て、乗り合わせていた医師とともに救命活動を行い、意識が戻り無事にヘルシンキに到着。 いきなりびっくらこいたスタートとなった。 北極圏の街ロヴァニエミにあるサンタクロース村へ。 本物のサンタクロースに子供たちも大喜び！サンタとの記念写真は今でも我が家の宝物です。 ちなみに、上の写真は真っ昼間。極夜（１日中太陽が昇らない）ですがお昼の数時間は薄明るくなる。慣れるまでヘンな感じ。 ヨーロッパの雪団子は三段でした！ 宿泊拠点の街サーリセルカを散策。このくらいの気温は普通なのでもう慣れた。（滞在中の最低気温は－31℃） 小さな街なのでスーパーや飲食店がコンパクトにまとまっていて便利。焼却炉の排熱を利用した町中セントラルヒーティングで快適。近くのスキー場にも行きましたが、リフトが寒すぎて滑ってられない（笑）。 昼は街を楽しみ、夜はオーロラハンティングです！ なんと、世界最北のボウリング場を発見！（実は事前に知っていた）。体育会系ボウリング部の血が騒ぐ・・が・・ このあたりではボウリングはBarに設置されていて、お酒を飲みながら遊ぶものらしく（ダーツBarと同じカテゴリ）、夜しか営業していないとのこと。中を見せてもらえましたがプレーはできず。 夜はオーロラ見たいので断念。。今度は夏に来るよー そしてついにオーロラ発見！ ラッキーなことに２日目の夜に見事なオーロラに出会えた！美しく揺らめく光のカーテン。添乗員さんが撮影してくれた写真がこちら。 この日は７段階中上から２番目に強いオーロラだったらしく地元のニュースでも報道されるくらい見事だった。 幸運なことに７日間の滞在で４回も見ることができた。忘れられない体験となった。 夏 ～白夜 沈まない太陽～ オーロラツアーから帰って２ヶ月後にフィンランド航空からメールが届く。なんと、行の飛行機で救助を手伝ったお礼に１人分の往復チケットをくれるとのこと。 これは神様の思し召しだと思い、今度は白夜を見に北欧へ！ 北極圏の街イナリで湖クルーズ（冬に凍った湖上でオーロラを見たところ！） 初日にわくわくしながら真夜中の太陽を見る（時計は真夜中の0時8分） 小学生の子どもには事前に地球儀をつかって白夜と極夜の仕組みを教えておいたが、実際に見ると喜びはひとしおだったようだ。 日中は陽ざしが気持ちよくとても快適な気候。ベリー系の果実が美味しい！ 国境をこえてノルウェーに入り、ヨーロッパ最北端のノールカップ岬へ。 途中でノラトナカイ（野生のトナカイ）にも遭遇。この日はあいにくの天気で、昼間でも薄暗かった。さすがに真夏でも寒い（ウインドブレーカー必須） 証明書とお土産に買ったワインボトルキャップとTシャツがよい思い出。 北極圏を離れて南部のヘルシンキに出発。 寝台特急の旅。白と緑を基調としたきれいな車輛です。ちなみに、出発時間21:10の電車に乗り込む20:45頃でこの明るさ！ 最後の白夜を楽しむため夜中中眠らずに車窓を眺めていた。列車は森と湖を縫って走り翌朝ヘルシンキ中央駅へ到着。 旅の集大成として首都ヘルシンキの街を散策。街のシンボルである大聖堂も青空に映える！ 港の朝市でトナカイバーガーを食べ、北欧デザインのお店を巡り、ムーミングッズも確保。すっかりフィンランドを堪能し、今回も忘れられない旅となった。 ありがとう北欧 また来るよ！ スヴァールバル諸島へ すっかり北欧の魅力にやられてしまった私は 次に行くところを決めている 大陸からはるか北の彼方の島 \"スヴァールバル\" なんと、ここに行くツアーがある 一面真っ白の世界で夏の一時期しか行けない場所であるが ぜひとも一度は訪れてみたい その他にもノルウェーのロフォーテン諸島をめぐる沿岸急行船の旅もしたいし むしろ将来はノルウェーに移住したい こんな北欧好きの私ですが、よろしくお願いします",
+    "links": [],
+    "word_count": 69,
+    "crawled_at": "2026-03-22T16:37:57.055664",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://profiletech0.netlify.app/",
+    "title": "Abe Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "My Profile Welcome to profile page! ABOUT Name: Abe Hiromu Hometown: Miyagi HOBBY Photography: Nature Lover Baseball: Rakuten Eagles supporter Sweets: Chocolate is my favorite Hiking Occasionally go hiking WORK Previous Department: Logistics Management (4 years) Current Department: Accounting (starting April 2025) PHOTO GALLERY CONTACT THANK YOU🎈",
+    "links": [],
+    "word_count": 47,
+    "crawled_at": "2026-03-22T16:37:58.120109",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://steady-genie-a26d73.netlify.app/",
+    "title": "WithYOU",
+    "description": "",
+    "keywords": [],
+    "full_text": "私について 管理本部で働く ごのへ です！ 2018年に入社してから、気づけば8年目。本当に時間は早いですね…！涙 経理、総務、新卒採用、研修、そして今は経営企画と、様々なお仕事を経験してきました。 会社のいろんな仕組みを知っているので、困ったことがあればいつでも頼ってください。 ３歳の息子を育てながら働いています。趣味は「寝ること・食べること」！ 最近はなかなかゆっくり寝かせてもらえませんが（笑）、飼っている三毛猫に癒されてます。 これまでの歩み 2018年4月 入社 管理本部に配属。環境に慣れることに精一杯の毎日でした。最初は総務・経理を学びながら、徐々に新卒採用周りも任せていただけるように。 2022年10月 産休・育休 出産と育児のためお休みをいただきました。特に後任の○○さんにはたくさん迷惑をかけましたが、周りの温かいサポートに感謝した期間です。 2024年4月 復帰・現在 再び総務・経理として復帰。現在は経営企画担当となり、毎日が勉強ですが、新鮮な気持ちで挑戦中です！ とある一日の流れ 09:00 始業（会議・資料作成）時短勤務なので９時スタート。朝一の会議で情報を共有します。 12:00 ランチ休憩同期とおしゃべりしてリフレッシュ！午後への活力をチャージします。 16:00 定時退社！保育園へお迎えに。ここからはママの時間へ切り替えます。 後輩のみなさんへ 私もいまだに失敗するし、毎日手探りで頑張っています。 「完璧な先輩」ではありませんが、だからこそ力になれることもあるはずです。 一人で抱え込まず、いつでも気軽に話しかけてくださいね♡ ごのへ お話ししてみませんか？ 仕事の悩みから雑談まで、なんでも大歓迎です！",
+    "links": [],
+    "word_count": 33,
+    "crawled_at": "2026-03-22T16:37:59.240560",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://dapper-tiramisu-54f607.netlify.app/",
+    "title": "Harp for everyday moment.｜Akiko Ishikawa",
+    "description": "石川亜樹子の自己紹介ページです。演奏動画やコンサート出演情報、活動についてご紹介しています。",
+    "keywords": [],
+    "full_text": "Harp for everyday moment. About 石川亜樹子（AKIKO ISHIKAWA） 出身：神奈川県藤沢市 職業：医療業界のWEBディレクター 出身校：白百合女子大学、グロービス経営大学院大学 趣味：ハープを22歳で始め、中尾晴奈氏、安井弘子氏に師事。会社勤めをするかたわら、アマチュア楽団やボランティアなどで活動している。 My Harp グランドハープ 所持楽器は青山ハープ ORPHEUS 47（写真の楽器はレンタル品のため異なります）。47本の弦と足元の7つのペダルを操作し、音程を変化させながら演奏する大型のハープです。豊かな響きと幅広い音域が特長で、ソロからオーケストラまで幅広く用いられます。 アイリッシュハープ 所持楽器は青山ハープ 34Sシリーズです。ペダルを持たないレバーハープで、各弦に付いたフックを上下させることで半音の調整を行いながら演奏します。軽やかで親しみやすい音色が特長で、アイルランド音楽をはじめ、室内楽や小編成の演奏に用いられます。 サウルハープ 所持楽器は青山ハープ 25Sシリーズです。弦数25本の小型ハープで、グランドハープほどの深みはありませんが、きらきらとした透明感のある澄んだ音色が特長です。グリーンのキルティング生地のケースを背負って移動する姿から、「亀仙人」と呼ばれ面白がられています。 Movie Concert",
+    "links": [
+      "https://www.ntt-chorus.org/concert"
+    ],
+    "word_count": 25,
+    "crawled_at": "2026-03-22T16:38:00.406533",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://magnificent-twilight-90e24a.netlify.app/",
+    "title": "IzumiAkihiro LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "数年先の未来を創る ここからはじまる少し便利な生活を Profile Profile About Me 泉 明宏／ずーみん 2023-2025.7 電気回路「設計・施工・改造」 2025.11-現在 株式会社東急コミュニティー・設備技術 License 大型バイク・電気工事・アマチュア無線 Vision Tech０を通じて世の中の暮らしに便利を届けたい やりたい仕事とできる仕事は違います。 今まで私はできる仕事をやってきました。 やりたい仕事をするために私はTechを始めました。 2023-2025.7 電気回路「設計・施工・改造」 2025.11-現在 株式会社東急コミュニティー・設備技術 License 大型バイク・電気工事・アマチュア無線 Vision Tech０を通じて世の中の暮らしに便利を届けたい Hobbies 趣味・特技 球技 / ゴルフ 青空の下でするゴルフは日常のストレスを忘れさせてくれます広いコースでのドライバーは格別です スキー / スノーボード 非日常的な自然に触れ、心も体もリフレッシュできます日本各地のスキー場に行きたいです 料理 / カフェ巡り 知らない街を歩き、料理に活かせるアイデアを探す旅に出ますインスピレーションの源です Contact お問い合わせ ご質問やご依頼など、お気軽にお問い合わせください。",
+    "links": [],
+    "word_count": 44,
+    "crawled_at": "2026-03-22T16:38:01.968348",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://morimopage-ver2.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "Make Waves! プロフィール 1997年生まれ 福岡出身 モ率60% 仕事 インフラ企業のIT/DX企画部門に所属。 IT知識0状態での配属から早6年、「業務で扱ったことがあるものは我流なんとなく理解」の状態のまま現在に至る 好きなこと ごはん・お酒 なんでも食べ・飲む月に1回友人と「ちょっといいとこ」に行くことが楽しみ 本 本屋さんをぶらぶらすることが好き小説・エッセイ・漫画など 睡眠 1日の大半を睡眠に費やすことこそ至福だと思っていたがそうもいっていられない お問い合わせ",
+    "links": [],
+    "word_count": 17,
+    "crawled_at": "2026-03-22T16:38:02.736293",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://dainty-cassata-1a432a.netlify.app/",
+    "title": "Bootstrap LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "中沖篤志の自己紹介 Profile だいたいこんな人です 高杉晋作的な生き方に、うっかり憧れてしまった人 酒を一滴でも飲むと止まらなくなるため、なるべく飲まないようにしている 奥さんが怖い（怒られると、だいたいChatGPTに慰めてもらっている） 2024年4月に北海道へ移住。冬道の運転はいまだに毎回ビビっている 最近の趣味は、日経新聞の記事をGeminiと壁打ちすること(あれ？友達いないの？) 土日は0歳児の育児・家事・奥さんのご機嫌取りでほぼ終了 料理は鍋料理のみ（具材を入れるだけなので失敗しない） Interest&Skills 0歳の子ども。 笑いかけてくれるだけで、全部報われる。 北海道イエロースターズ。 プロスポーツビジネスは、想像以上に人間くさい。 リス。 別にそんなに好きではない。 ラーメン。 北海道は、だいたい正解。 Message ちゃんと悩みながら、手を動かしながら、無理せず続けていければと思っています。 同じように迷いながら学んでいる方がいたら、ぜひ仲良くしてください。",
+    "links": [],
+    "word_count": 22,
+    "crawled_at": "2026-03-22T16:38:03.424815",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://adorable-pithivier-42a36d.netlify.app/",
+    "title": "ogura_LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "医療現場と経営部門の架け橋 Tech0でのテックスキルを現場実装へ Profile 小倉 圭史（おぐら けいし） 大学病院での医療現場での経験と経営系大学院での得られた視点、そしてテックの力を融合。Tech0では、業務改善につながるアプリ開発ができるよう頑張りたい。 職業：診療放射線技師 生年月日：1976年5月12日 居住地：北海道札幌市 5つの資質：達成感/ 信念/ 未来志向/ 学習欲/ 親密生 Hobbies ラーメン食べ歩き ラーメンと居酒屋巡りをこよなく愛す。美味しい一杯と語らいの場を探求中 読書 時間がある時は本を手に持つように。今年の一冊「冒険する組織のつくかた」 料理 無心に食材と向き合う時間がストレス解消。最近は圧力鍋で豚角煮に夢中 探求 恐れずに新しい知識と新しい出会いを追い求めて。終わりなき学びの旅 Contact Follow Me",
+    "links": [
+      "https://www.linkedin.com/in/%E5%9C%AD%E5%8F%B2-%E5%B0%8F%E5%80%89-1b844594/",
+      "https://www.instagram.com/ogusapjp/",
+      "https://www.facebook.com/keishi.ogura.7"
+    ],
+    "word_count": 27,
+    "crawled_at": "2026-03-22T16:38:04.667819",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://6946485f0859200153a60a03--cool-bubblegum-540b3a.netlify.app",
+    "title": "バイクとサウナとランニング",
+    "description": "",
+    "keywords": [],
+    "full_text": "プロフィール 趣味 経歴 名前：おかむ 仕事：時計屋さん 生まれ：北海道 生まれ年：1900年から2000年の間 バイク × サウナ × ランニング お酒が好きなので好きに飲めるために頑張ります！！ 私の特徴 バイク バイクに乗り始めてはや３年、３回転びました ランニング 最近は皇居の周りを走ってます。 サウナ 前職の部下に教えてもらいました。 お酒 結局ハイボールが一番 MBA 2025年に卒業しました！ CPA 2022年に全科目合格しました！ 経歴 2023年 - バイク免許取得 中型バイクの免許を取得しました。 2023年 - バイク免許取得 中型バイクの免許を取得しました。 2024年 - サウナブーム到来 サウナにハマり、週末はバイクでサウナ巡りを楽しんでいます。この時期になると寒すぎて温まったのに秒で冷えます。笑 2024年 - サウナブーム到来 サウナにハマり、週末はバイクでサウナ巡りを楽しんでいます。この時期になると寒すぎて温まったのに秒で冷えます。笑 2025年 - ランニング開始 痩せるためにランニングを始めました！目指せホノルルマラソン。 2025年 - ランニング開始 痩せるためにランニングを始めました！目指せホノルルマラソン。 ご質問について 氏名（必須） メールアドレス（必須） お問い合わせ内容（必須） ※必須項目は必ずご入力ください よろしければ友達申請お願いいたします！！",
+    "links": [
+      "https://www.instagram.com/taka__okamu/",
+      "https://www.facebook.com/takayuki.okamuro.7"
+    ],
+    "word_count": 57,
+    "crawled_at": "2026-03-22T16:38:05.185312",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://joyful-pegasus-a1fe29.netlify.app/",
+    "title": "HARUKA OTANI -Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "About Me 📍 出身地 埼玉県 💻 現在の所属 新規事業開発のスタートアップ 🎂 生年月日 1985年 12月 History インターネット専業広告代理店 入社 バリバリ働く社会人に憧れ、夢中で働く。毎日終電あたりまで、とにかく働く。 会社を退職し、フリーランスに 服作りを趣味兼仕事にしてみたく、自由な時間を作れるフリーランスに。マーケティングコンサルタントと兼業。 新規事業開発会社 創業 縁あって同い年の仲間3名で、新規事業開発伴走支援・事業会社創業。 My Hobbies 2つの趣味について紹介します。 🪡 洋服づくり 社会人8年目で新しいことにチャレンジしたくなり、服飾専門学校（夜間）に3年間通い、服作りを学ぶ。ハンドメイドで製作をして販売も。 卒業制作 専門学校の卒業制作で作ったドレスです。いろんな素材を組み合わせて制作しました。 ウールコート チェックのウールコート（メンズ）。販売したものの中で一番制作期間がかかったアイテムです。 セットアップ ネイビーのセットアップ。センターベントや袖口をファスナーで、ワンポイントにしました。 ✈️ 海外旅行 中央ヨーロッパが大好きです。Airbnb部屋を借りて、その地で暮らすように過ごして楽しんでいます。 チェコ・プラハ とにかく街がとってもきれいです。大好きな画家ミュシャの生まれた地でもあります。 ハンガリー・ブダペスト 中央に川が流れていて素晴らしい教会や美しい景色が広がります。温泉もたくさんあってお勧めです。 スイス・ベルン 首都とは思えないこじんまりした街です。どこを歩いてもきれいで、のどかな景色に出会えます。 Unforgettable Episode 今でも忘れられない、衝撃の体験。 マッターホルンでの迷子 会社を退職後、ヨーロッパを一人旅していたときの出来事です。スイス・ツェルマットから高山鉄道でマッターホルンを見に行き、帰りに一駅分歩いて下山しようとしました。 しかし、道に迷い、線路周辺の深い雪に腰まで埋まり、身動きが取れなくなる恐怖を味わいました。「本当に帰れないかもしれない」と焦りましたが、最後は這って線路に上がり、無事生還しました。 Contact 自己紹介をご覧いただきありがとうございます。ご質問やメッセージなど、お気軽にお送りください。",
+    "links": [],
+    "word_count": 50,
+    "crawled_at": "2026-03-22T16:38:05.818155",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://ryoma-profile.netlify.app/",
+    "title": "Ryoma Takakura | 地域金融 × Technology",
+    "description": "",
+    "keywords": [],
+    "full_text": "地域金融にテクノロジーを。 実用的なテックスキルを身に付け、 あらゆるステークホルダーから“選ばれる”銀行員へ。 Profile 福岡のしがないバンカー 高倉 竜馬（Ryoma Takakura） 長崎県佐世保市出身。大学卒業後、福岡県福岡市に本店を構える地方銀行に入社。現在は営業企画部に所属し、預り資産ビジネス（投資信託・保険商品等）推進の企画業務に従事 入社してこれまで、地道に個人営業スキルを磨いてきました。各種ローンや保険商品を活用したライフコンサルティグに関しては、社内でも指折りのスキルを有しています。（自称） 現所属部署では足元の銀行全体目標の達成と並行し、中長期的な目線での施策立案が求められており、日々挫折の連続です。こうした背景から、自身の視野を広げるべく今回 tech:0を受講することを決意しました。 粘り強さだけは人一倍あると自負しているので、ここで学んだスキルを使ってどのようなプロダクトを生み出せるのか、とてもワクワクしています。 Hobbies 仕事の合間の息抜きとして大切にしている趣味たち 美味しい珈琲屋探し お洒落なカフェよりも薄暗い喫茶店の雰囲気が好きです。 野球観戦 地元球団の勝利が酒の肴です。 家族と過ごす時間 娘の成長を見届ける時間。 読書 警察もののミステリーを特に好んで読みます。 飲酒 ウィスキーなどの蒸留酒を特に好んで飲みます。 Contact お気軽にお問い合わせください",
+    "links": [],
+    "word_count": 27,
+    "crawled_at": "2026-03-22T16:38:06.368884",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://fanciful-buttercream-789c06.netlify.app/",
+    "title": "My Intro LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "Profile Birthplace 千葉県白井市（梨の名産地） Address 横浜市（免許更新の地） Work 某IT企業のDX推進部 Will 社会課題を解決できるプロダクトをつくる Interest 仕事と子育ての両立、親のキャリア形成、DE&I Research 大学院の研究プロジェクトで書いた 論文 が先日リリースされました！共同研究チーム名が「ホタルイカ」なので、faviconをイカにしてます笑 Address 横浜市（免許更新の地） Work 某IT企業のDX推進部 Will 社会課題を解決できるプロダクトをつくる Interest 仕事と子育ての両立、親のキャリア形成、DE&I Research 大学院の研究プロジェクトで書いた 論文 が先日リリースされました！共同研究チーム名が「ホタルイカ」なので、faviconをイカにしてます笑 Love 大事にしていること・好きなこと cooking 料理はするだけで自己肯定感がUPするので日々の癒しです。家飲みも好きで、酔うと料理酔拳（再現不可能な神味付けをする）を発動します。 Photo 一眼レフを持っていれば一日中散歩できます。趣味が講じて個展をしたことも。このページの写真も全て自分が撮ったものです。 Aroma アロマセラピストとして副業で週末自宅サロンをやってました。子供が生まれてからお休み中ですが、家で自然の香りを焚くのが好きです。 Son 今年5歳の怪獣です。アニメ「ハイキュー!」にハマって家で毎日バレーをしてます。母はもうへとへとです。 Photo お気に入りの写真の一部をよかったらみてください",
+    "links": [
+      "https://www.jstage.jst.go.jp/article/globis/4/0/4_32/_pdf/-char/ja?fbclid=IwY2xjawO05bxleHRuA2FlbQIxMABicmlkETFxaGN6aWtXM0hOdHhZYXZVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjF7GvKPpu84qij0KI7fKmxOXQSF455-s-ke9onf5wFRTAsgxnADVHEbmFlc_aem_AowWt6wqNgJMbtKhIxl_8A"
+    ],
+    "word_count": 39,
+    "crawled_at": "2026-03-22T16:38:07.213062",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://jt-tech0-lp.netlify.app/",
+    "title": "自己紹介LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "Hello! I'm Junya!! 起こせ！デジタル大革命！ 秘匿性の壁を越え、AI時代に即した次世代の監査体制を構築する。 私は、テクノロジーで組織をアップデートする「変革の起点」になります。 Profile 塚田 淳矢 普段は監査法人にて、会計監査やスタートアップ支援に従事しています。 現場で培った知見を活かし、現在はテクノロジーによる業務効率化やDX推進に注力しています。 プライベートでは野球、ドライブ、旅行が趣味で、週末は駒沢公園に出没することが多いです。美味しいご飯やお酒のためならどこまででも行けるタイプです。 将来的にはスポーツビジネスに携わりたいと思っています。いろいろ選択肢があって悩み中なのでお知り合いに活躍されている方がいらっしゃればお繋ぎいただきたいです！ Wishlist Tech0を通じて達成したいこと スタートアップ支援AIツール開発 監査法人での知見を活かし、スタートアップの成長を加速させるための業務自動化ツールを開発したいです。 採用活動効率化AIツール開発 テクノロジーを使って、煩雑な採用プロセスをスマートに。現場の課題をプロダクトで解決する実装力を身につけます。 Tech0のみなさんと仲良くなりたい！ 同じ志を持つ仲間と繋がり、切磋琢磨しながら新しい価値を生み出せる関係性を築いていきたいです。 Message Tech0での学びを通じて、 いろいろな人を幸せにするプロダクトを開発できるようになりたいです！ テクノロジーは全くの初心者ですが、 みなさんと一緒に頑張りたいです！よろしくお願いします！ 塚田 淳矢",
+    "links": [
+      "https://www.facebook.com/profile.php?id=100075912753099"
+    ],
+    "word_count": 28,
+    "crawled_at": "2026-03-22T16:38:08.494370",
+    "crawl_status": "success"
+  },
+  {
+    "url": "http://fifth-keropon-yasuda.netlify.app",
+    "title": "自己紹介ページ",
+    "description": "",
+    "keywords": [],
+    "full_text": "プロフィール 名前： 保田 幸輝 (ヤスダ コウキ) 出身地： 神奈川県横浜市 現住地： 東京都葛飾区 居住歴：愛媛県松山市 香川県高松市 福岡県福岡市 京都府京都市 大阪府豊中市 入社年度： 2022年 2025年の思い出 北海道 エスコンフィールドにいきました 東京ドーム 人生初のホームバックネット裏 大阪万博 不気味だったミャクミャクに魅了されました ハワイ ダイヤモンドヘッド登山、しんどいな、、 ツーリング 友人と広島から下関まで！ 香港 20周年らしく盛り上がっていました 仕事紹介 水酸化アルミ みなさんの家のバスタブも弊社の水酸化アルミでできています！ アルミナ 川口春奈もびっくり！まさかそんなところにも、、",
+    "links": [],
+    "word_count": 35,
+    "crawled_at": "2026-03-22T16:38:10.028904",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://ephemeral-sunflower-3e4d62.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "経歴 2021年4月 ～ 入社 2022年4月 ～ Azure・Linux 2024年4月 ～ DB・SQL 好きな食べ物 HARBSのケーキ やきとりの扇屋のぼんじり FRESHNESS BURGERの塩レモンチキンバーガー 趣味 バレーボール 国内旅行 HipHopダンス 出身 東京都杉並区出身 小中高大と東京で過ごす 海外に住んでみたい！ 意気込み プログラミングへの苦手意識払拭 ITを強みにしていく とにかく行動する！",
+    "links": [],
+    "word_count": 27,
+    "crawled_at": "2026-03-22T16:38:11.460512",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://magenta-daffodil-201364.netlify.app/",
+    "title": "Profile.v2_AsanoRyota",
+    "description": "",
+    "keywords": [],
+    "full_text": "登山 Like：槍ヶ岳、奥穂高、北岳、富士山 トレイルランニング 今はあまり行けてませんが、ダイトレや京都一周トレイルの大会にも出てました 読書 Like：伊坂幸太郎、司馬遼太郎、カミュなどの小説 基本情報 出身：岐阜県各務原市 趣味：トレイル、登山、読書 居住：大阪府茨木市 キャリア 研究開発：日用品開発（8年） マーケティング：通販食品（１年） 特命業務：トラブル対応（1.5年） スキル 経営戦略：国内MBA取得(2022) プロジェクト：PMP取得(2025) Tech：Techbootcamp修了(2026) 人見知りを患っていますが、仲良くなってくるとよく喋るようになると思います！よろしくお願いします！",
+    "links": [],
+    "word_count": 19,
+    "crawled_at": "2026-03-22T16:38:12.317554",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://willowy-donut-1d6a4e.netlify.app/",
+    "title": "Portfolio",
+    "description": "",
+    "keywords": [],
+    "full_text": "今日はディズニーランドに行ってきます！ 在学中よりフォトグラファーとして活動開始。 Fashion Pressにて取材・撮影・編集・WEBディレクションを経験。 2019年9月よりリクルーティング業界へ転身。 IT領域を専門に転職エージェント、ヘッドハンターをしています。 経歴 在学中よりフォトグラファーとして活動開始。 Fashion Pressにて取材・撮影・編集・WEBディレクションを経験。 2019年9月よりリクルーティング業界へ転身。 IT領域を専門に転職エージェント、ヘッドハンターをしています。 HR × ITのキャリア形成を軸に活動中。 HRとITを掛け合わせたプロダクト開発。 Techで技術習得中。 直近の目標 HRとITを掛け合わせたプロダクト開発。 Techで技術習得中。 contact",
+    "links": [],
+    "word_count": 21,
+    "crawled_at": "2026-03-22T16:38:13.245931",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://unique-bunny-87ce41.netlify.app/",
+    "title": "",
+    "description": "",
+    "keywords": [],
+    "full_text": "SURF ＆ TURFって皆さんきいたことありますか ああ、宮崎住みたい Profile ニックネーム：きむ 愛知県出身 大阪在住 泌尿器科医 Hobby surfing 大学時代から始め飽きることなく続けてます。ちょくちょく大会も出たりしてます。波さえあればどこまでも、、 golf 波がなければゴルフしてます。ラウンドはもちろんですが、練習も好きです。時間溶けます。 SURF ＆ TURF 多くのサーフポイントや、ゴルフ場が点在するアメリカ西海岸が発祥。 「きょうは波がないからゴルフしようぜ！」 という遊び心あふれる言葉から生まれたカルチャーです。 直訳すると“波”と“芝”。 サーフィンしてゴルフして…な「至高のあそび」を意味します。 なぜ宮崎なのか 一年中温暖な気候に加えて、 宮崎市内からわずか数分でアクセスできる 多くのサーフスポットとゴルフ場が点在しています。 日本でSURF ＆ TURFを体現するならばここしかありません！",
+    "links": [],
+    "word_count": 29,
+    "crawled_at": "2026-03-22T16:38:13.971758",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://profile-micky-ver2.netlify.app/",
+    "title": "Profile | Mikio.Nishimura",
+    "description": "profile",
+    "keywords": [],
+    "full_text": "Profile Name｜西村 幹朗 Birthday｜8月24日 HomeTown｜福岡県大牟田市 Location｜東京都 MBTI｜ENTJ-A Hobby スポーツ観戦＆ゴルフ 野球⚾を見に行ったり、週末は時々ゴルフへ！ゴルフは好きだけど、最近のスコアは100台にとどまっています💦 マンガ スラムダンクを読んでミニバスを始め、その後もワンピースやキングダムなど今でも漫画読むのが大好きです📚 お酒と美味しいごはん みんなでワイワイ、ガヤガヤしながらのお酒と美味しいご飯は最高です🍺 資産運用 MBAを経て、株や債券などに興味を持ち始め細々と楽しんでいます💰 History Sales：岡山県倉敷市、兵庫県尼崎＆神戸市にて開業医～大学を担当。 （MBA：Master of Business Administration） ・ 平野光俊ゼミ：人的資源管理、組織行動 ・ Healthcare領域以外の業種の方々と知り合うことができ、とても刺激的な時間でした。 （MFA：Master of Fine Arts） ・ 早川克美ゼミ：デザイン思考 ・ 卒業研究の一部でアプリを制作も行いましたが、制作能力がなく外注しました😢 ・ 研究内容はこちら：職場で伝播する不機嫌を解消するためのデザイン Follow & Contact me",
+    "links": [
+      "https://graduate.air-u.kyoto-art.ac.jp/art/ids/study/20124/",
+      "https://www.linkedin.com/in/mikio-n-909443182/",
+      "https://line.me/ti/p/3E9MC7R1Nv"
+    ],
+    "word_count": 40,
+    "crawled_at": "2026-03-22T16:38:14.518154",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://thriving-sawine-e764b7.netlify.app/",
+    "title": "自己紹介LP",
+    "description": "",
+    "keywords": [],
+    "full_text": "Keisuke N 愛知県出身/大阪府在住 メーカー勤務。 研究開発の仕事の傍ら、Tech0に挑戦。 Career 愛知県出身。味噌大国にて育つ。 大学入学で京都へ。工学部で４大力学を学ぶ。 新卒で大阪のメーカーに就職。研究開発に従事。 Hobby 読書 ミステリーから自己啓発本までいろいろ ゲーム 据え置き機中心にPCゲームまで幅広く 旅行 国内中心に年3,4回ほど 1mmも想像していなかった展開に驚愕 こんな方法でびっくりさせられるとは・・・ 学びが多すぎて面白い Nintendoをこよなく愛する 大好きなゲーム。いつかオーケストラで。 小さいころからずっと一緒に育った。 一人でクリスマスマーケット。 宮古島ブルー。 夕日がとてもエモい。 Comment Tech0への挑戦 自分のスキルを高めてできることを増やしていくことによって、自分の今の業務をどう改善できるのか、自分は何がやりたいのか、を明確にしていきたい。 今回のLP作成 とにかく困りました。クラスが多くてどのクラスに適応させたらいいのかもわからなかったし、いろんなサイズの画像を入れ込んだ時に見た目がバラバラにならないように調節しようとすると、全体のレイアウトが崩れてしまったり、、、結局細かいところまでは修正しきれませんでした（泣）",
+    "links": [],
+    "word_count": 30,
+    "crawled_at": "2026-03-22T16:38:16.014887",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://glistening-vacherin-bb43b3.netlify.app/",
+    "title": "Junnosuke Shigeta 2",
+    "description": "",
+    "keywords": [],
+    "full_text": "これまでの28年とこれからの30年 これまでの28年間で積み重ねてきた経験や、 夢中になってきた趣味の数々を、iPhoneに残る写真とともに振り返ります。 そしてこの先の30年、どんな人生を描いていくのか―― 自分だけの未来図を想像しながら綴っていきます。 Profile 重田 準之助 年齢：28歳 出身：佐賀県佐賀市 在住：福岡県福岡市 職業：会社員（エネルギー関連） History 幼少期 重田家の四男として誕生（三男とは双子）。 兄たちや近所の友達と遊び回り、にぎやかでわんぱくな幼少期を過ごす。 6歳の頃、長男の影響で野球を始め、平日も土日も暇さえあれば野球。 まさに“野球漬け”の日々だった。 学生期 小学校1年生から大学4年生まで、学生時代のほとんどを野球に費やす。 高校では甲子園、大学では神宮を目指し、仲間と切磋琢磨しながら練習に励んだ。 結果が思うようにいかず苦しい時期もあったが、野球を通じて得た経験とかけがえのない仲間は、今でも大切な宝物になっている。 社会人 大学卒業後、硬式野球部のある現在の会社へ入社。 目標だった“2大ドーム（東京ドーム・京セラドーム）での登板”を達成し、4年間の活動を経て引退。 野球中心の生活から一転し、土日が自由になったことで時間を持て余すように（笑）。 これを機に、趣味を通じて休日を充実させる大人を目指し始めた。 Hobby ラーメン 社会人4年目に野球を引退し、土日の過ごし方に迷っていた頃、ラーメンにどっぷりハマる。 店ごとに味も麺も全く違い、“自分が心から納得できる一杯”を求めて食べ歩く日々。 写真は、現時点で一番好きな「兼虎」のつけ麺。 福岡に来た際はぜひ味わってほしい。 アウトドア 幼少期を佐賀の自然豊かな町で過ごしたこともあり、今でも自然が大好き。 焼き芋、流しそうめん、川遊びなど、田舎ならではの遊びに魅了されてきた。 自然に癒しを求める仲間も多く、たまに集まってリフレッシュするのが楽しみ。 写真は、実家で甥っ子たちとプール遊びをしている一枚。 ゴルフ 友人の誘いをきっかけにゴルフを始める。 腕前に自信があるわけではないが、定期的にコースへ出て非日常を楽しんでいる。 大人数でのラウンドも好きで、コンペを開催することもしばしば。 ただ、いつも賞品を渡す側なので、そろそろ“もらう側”になりたいのが目標。 Future 10年後 子どもが二人に恵まれ、家族の中心としてにぎやかで楽しい毎日を過ごしている頃。 育児にも全力で向き合い、気づけば町で一番の“育児博士”と呼ばれるほど頼られる存在に。 仕事と家庭のバランスを取りながら、休日には子どもたちと遊んだり、家族で出かけたりと、笑顔の絶えない日々を送っていたい。 20年後 子どもたちも成長し、それぞれが部活や勉強に励む時期。 特に野球を頑張る姿を全力で応援し、かつて自分が味わった喜びや悔しさを重ねながら、家族で一緒に青春を楽しんでいる。 仕事では責任ある立場を任され、家庭でも職場でも“大黒柱”として頼られる存在になっていたい。 30年後 子どもたちが独立し、夫婦としての時間をゆっくり楽しめるようになっている頃。 実家の近くで小さなカフェを開き、昔からの友人が気軽に立ち寄れる“居心地のいい場所”をつくっていたい。 自然に囲まれた環境で、コーヒーを淹れながら人とのつながりを感じられる温かい日々を過ごしている未来が理想。 Contact",
+    "links": [],
+    "word_count": 57,
+    "crawled_at": "2026-03-22T16:38:17.344765",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://taupe-haupia-a6306b.netlify.app/",
+    "title": "Hironobu Shimadu",
+    "description": "",
+    "keywords": [],
+    "full_text": "Profile 名前：島津宏宣年齢：５０代 出身：育ちは奈良、現在は大阪在住家族：妻、子供3人（写真は次男と私） 仕事：知財関連の業務に従事 (生成AI関連の業務に注力予定) favorites ジョギング 昼休みに走っています。昨年膝を痛めたためレースには出ていませんが、健康維持目的で続けています。 つり 昨年、子供と何度かつりに行き、道具も揃えたところです（初心者）。ほぼ堤防釣り専門ですが、暖かくなったらまた行きたいです。 ラーメン 昔はこってり系（天下一品など）が好きでしたが、近年はあっさり系（神座など）の方が好きです。 梅酒 梅酒が好きです。甘めのものが好きです。ロックでいろんな種類を試しています。 tech0での目標 tech関連のスキルをみにつけ、部署の業務の効率化を実現する。 業務で役に立つアプリなどのツールを提供したい。（まずは、授業についていけるよう頑張ります！）",
+    "links": [],
+    "word_count": 17,
+    "crawled_at": "2026-03-22T16:38:17.896771",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://rina-s-12-tech0.netlify.app",
+    "title": "Rina's Introduce",
+    "description": "",
+    "keywords": [],
+    "full_text": "#AboutMe 🌻1998年7月生まれ🌻 知的好奇心が旺盛な負けず嫌い！楽しいことが大好きです。 経営学科を卒業後、総合リース会社に新卒入社。 3年間の医療分野での営業のち、昨年度より新規事業開発に従事しています。 #Favorite ねこ 世界一可愛いスコティッシュフォールドの女の子と暮らしています。毎日メロメロです。 ラーメン 家系をこよなく愛しています。二郎は半年我慢中…！！🔥 旅行 その土地のものや人と出会いながら時間を過ごすのが好きです。今年の夏休みも一人でオーストラリアへ🇦🇺 日本酒 東北のお酒が大好きです！日本種と海鮮を浴びによく東北に行きます🍶 運動 体を動かすこと、スポーツ観戦、なんでも大好きです！3年ほどピラティスに通っています🤸 物語 ハリーポッターやドラえもん等、物語の世界に浸るのが好きです。日々の中の”少し不思議”をいつだって楽しめる人間でありたいです。 #Contact ここまで読んでくださりありがとうございます！何かあればお気軽にご連絡ください🌷",
+    "links": [],
+    "word_count": 20,
+    "crawled_at": "2026-03-22T16:38:18.441085",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://fastidious-lollipop-2df569.netlify.app/",
+    "title": "Takashi Shoji Introduction page",
+    "description": "",
+    "keywords": [],
+    "full_text": "Takashi Shoji About 盛岡出身、愛知在住。 住宅設備メーカーにて、商品開発・工場・営業と 現場からお客様接点まで幅広い経験を積んできました。 立場や役割が変わることで見える景色の違いを大切にしながら、 「モノづくり」と「価値づくり」の橋渡しをしていきます。 Career 幼少時代 岩手県盛岡市で育つ 自然に囲まれた環境で過ごす 体を動かすことが好きな子ども時代 学生時代 高校時代からボート競技に打ち込む 仲間と切磋琢磨する経験を積む 継続することの大切さを学ぶ 現在 住宅設備メーカーに勤務 商品開発・工場・営業部を経験 like ボート 自然の中で漕ぐ感覚が好きで、高校から継続。高校では全国準決勝進出の実績あり 野球観戦 小さい時から巨人一筋。ファンクラブに在籍 日本酒 質より量 Photo Contact © Takashi Shoji 2025.",
+    "links": [
+      "https://ozawa-rowing.com/n05-entry-a4x2/entrymanual-noviceregt-a4x2.pdf"
+    ],
+    "word_count": 33,
+    "crawled_at": "2026-03-22T16:38:18.974688",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://fancy-wildflower-2569.smile-foxstory.workers.dev/",
+    "title": "profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "Do you love journey? Once a year, I preferably wanna go someplace I’ve never been before. The journey is the reward. bio Name: Masayuki Takahashi Location: Living in Hyogo,Japan, Working in Tokyo,Japan Experience: Specializing in product strategy, sales marketing, and IT project management. Core tech stack: Product Lifecycle Management (8 yrs), Sales Strategy (9 yrs), IT Project Hobbies: Surfing, Mountain Climbing, Watching Netflix, and Global Travel (18+ countries visited) Strategic Product & Marketing Leader | MBA | 20+ Years in Telecom I am a versatile leader with over 20 years of experience in the telecommunications industry, spanning from front-line sales to headquarters-level product strategy and large-scale IT project management Travel Broad international perspective through travel to 16 countries and major cities. North America & Pacific Asia Europe Africa Photo 175k clicks. 20 years. One of the best. FUTURE Will: What I want to achieve I aspire to lead new business development projects where I can personally build MOCs (Minimum Viable Concepts) and applications to test innovative ideas. Furthermore, I am committed to expanding my career internationally, with a strong desire to live and work abroad, leveraging my global partnership experience to drive business growth in diverse markets. Can: My evolving capabilities Building on my extensive background in product strategy and sales management, I am enhancing my technical skill set to transform business ideas into tangible digital products using modern technology. I am also proficient in navigating complex negotiations and collaborations with international partners in English, ensuring seamless communication in a global business environment. Must: My mission and commitment My immediate focus is on consistently delivering on profitability targets while progressively transitioning my professional focus toward high-impact, visionary projects. I am dedicated to evolving my role from managing existing legacy services to pioneering new business frontiers that align with my professional passion and global ambitions.",
+    "links": [],
+    "word_count": 304,
+    "crawled_at": "2026-03-22T16:38:19.293758",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://shun-y-12-tec0-portfolio.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "ABOUT スイーツの現場経験とデータ分析の視点を掛け合わせて、 食品業界の新しい価値づくりに挑戦しています。 プロフィール 趣味 プログラミングに興味を持ったきっかけでもあります。 考える前に手が動いてしまう弱いですが（笑）、とても好きです。 3歳の娘が生まれてから、よく一緒に散歩をするようになりました。 CAREER 一貫してスイーツに関わりながら、 現場とデータの両面から市場分析に取り組んできました。 国立大学大学院 農学系研究科 卒業 ウイルスの遺伝子研究に取り組んでいました。 現在勤めている食品メーカー 入社 スイーツの研究開発職としてキャリアをスタート。 メーカー向けスイーツ開発に従事 自社製品を活用したスイーツの企画・試作・提案を担当。 マーケティング・DX関連業務 スイーツの研究開発に加え、市場分析やデータ活用を組み合わせた取り組みを推進中。 CONTACT セミナーの内容や、スイーツ開発・市場分析・データ活用に関することなど、 気になることがあればお気軽にご連絡ください。 Hello, world!",
+    "links": [],
+    "word_count": 27,
+    "crawled_at": "2026-03-22T16:38:20.297445",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://guileless-sprite-8e7726.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "Profile 名前：橋本悠保(あだ名：はっしー) 出身地：石川県 現住所：東京都 職業：新卒から銀行勤務、現在出向中 Hobby 革靴 革靴収集、靴磨きが好きです 釣り 最近、会社のメンバーに誘われて始めました 犬 昨年からポメラニアンを飼い始めました contact",
+    "links": [],
+    "word_count": 13,
+    "crawled_at": "2026-03-22T16:38:20.805759",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://euphonious-rabanadas-2646c0.netlify.app/",
+    "title": "きくみん | 自己紹介",
+    "description": "",
+    "keywords": [],
+    "full_text": "きくみん 📍 福島県出身／神奈川県在住 👧 9歳の娘と夫、🐟めだかと暮らしています 自分について 出版社で雑誌編集を経験後、現在はウェブメディアの編集・運営をしています。 人生が豊かになるコンテンツを届けたい思いで、雑誌からウェブへと領域を広げてきました。 テックを学び、新しい事業のアイデアを生み出せるようになることが目標です。 Will・Can・Must これからの自分のためにやるべきこと やりたいこと 選択肢を広げ、自分の「やりたい」を見つけていく。 できるようになりたいこと テック知識を身に付け、AIやデータ活用をして、やりたいことを実現できるようになる。 やるべきこと 企画を立て、プロジェクトを推進し、組織を活性化させる。 趣味 子どもといろんな体験をすること スキー、登山、キャンプ、海外旅行など、 大人になって初めて経験することも多く、 子どもがいなかったら出会えなかったであろう楽しさがあります。 「遊びが楽しいと、仕事で楽しいが届けられる」がモットー。 メダカ 春に生まれた卵から、1匹だけ育ちました。水草のホテイアオイに、初めて花が咲き、親子で感動！ スキー 十数年ぶりにスキーを再開したら、板の進化に驚いた。いまや誰でも“上手く滑れる”時代。 登山 今年は上高地へ。河童橋のその先、徳沢でキャンプ泊して横尾まで。来年は涸沢カールを目指します。 海外旅行 韓国ではミナリコムタン、ミナリクッパが美味でした。ミナリ（せり）は癖がなく、子どももパクパク。 夜の散歩 「なんのおしゃべりをする？」と毎回話題を決めて歩いています。高台の公園から見る横浜の夜景もお気に入り。 キャンプ 上高地がきっかけで、この冬、キャンプの世界へ入門。野外で食べるご飯の格別なことよ！ 恥ずかしかったこと 時々、Tech0の授業に参加してくる娘。 イラストを描くのが大好きなので、LP用にアイコンをお願いしたところ、描いてくれたのは 「ワインを飲みすぎている私」でした笑 次回作も乞うご期待。 お気軽にご連絡ください",
+    "links": [],
+    "word_count": 41,
+    "crawled_at": "2026-03-22T16:38:21.737195",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://deft-kitsune-6488d1.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "鎌田博光： JBCCの紹介と、ついでに自己紹介 JBCC 2025年の大会は東大・安田講堂で行われました 投資・企業統治 写真はデザイン経営推進機構での講演。運用の仕事を長年していました 和 講談で米沢へ行った時の写真。和菓子、能・狂言、古文書にも興味 少しは運動も 東京マラソン4回出場、最近はボランティア。登山、水泳、サイクリングも",
+    "links": [
+      "https://www.jbccex.com/",
+      "https://www.iicef.jp/",
+      "https://kodankyokai.jp/",
+      "https://www.marathon.tokyo/"
+    ],
+    "word_count": 10,
+    "crawled_at": "2026-03-22T16:38:22.888400",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://ethan122-part2.netlify.app/",
+    "title": "EIJI NAGAOKA Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "Profile Hobby Career Future Contact Welcome to my world I’m glad you’re here, and I hope you get to know a little more about me. Profile Hobby Discovering the world together with my family. Singapore 家族で初めての海外旅行。 小さな冒険者とともに見た都市の輝き。 Vietnam 屋台の香り、人のエネルギー、アジアの鼓動。 子どもたちが文化の違いに触れて目を輝かせた旅 New Zealand 圧倒的な自然と空の青さ。 家族と一緒に価値観が揺さぶられた旅。 Career From Sales to Consulting, to leading strategic alliances. Built the fundamentals of being a working professional – field sales and business communication. 社会人としての基礎、ビジネスコミュニケーションを 徹底的に鍛えた時期。 Learned issue-driven thinking and how to turn complexity into clear, actionable stories. ハードワークの中で、論点思考とストーリーで語る力を 徹底的に磨いた時期。 Now leading alliances and new business in brain health and dementia with partner companies. 企業アライアンスをリードし、認知症・ブレインヘルス領域で 新しい価値をつくる。 Future Heading toward New Zealand around 2028 — with skills that travel anywhere. Around 2028, I’m aiming to relocate to New Zealand with my family. To keep earning opportunities from anywhere in the world, I believe my skill set needs to be both broader and deeper. Right now, I feel a real sense of urgency about my technical ability. My tech skills are still low, and because of that, the scope of what I can do at work is limited. I want to break that ceiling. Over the next few years, I’m committed to leveling up in tech – from data and AI to product development – so that I can stand on my own feet as a “BizDev with real tech muscles,” wherever I live. Now – 2026 Build solid foundations in tech: coding basics, data / AI literacy, and hands-on projects on top of my BizDev experience. 2026 – 2027 Ship Tech × Biz projects that create real value in brain health and dementia. Work with global teams, not just domestic ones. 2028 and beyond Live in New Zealand, work remotely with worldwide partners, and keep exploring how tech can improve brain health, work, and everyday life. “Staying on autopilot is easy, that's why we use it. But if you're trying to live a full and optimal life, autopilot won't give you what you want.” Contact Feel free to reach out anytime. Album",
+    "links": [
+      "https://note.com/theoriatec/n/ne4048da2eb28"
+    ],
+    "word_count": 334,
+    "crawled_at": "2026-03-22T16:38:24.177705",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://kenichi-nakamura-profile-updated.netlify.app/",
+    "title": "KENICHI NAKAMURA",
+    "description": "",
+    "keywords": [],
+    "full_text": "臨床試験でより良い未来を創る Change the world better through clinical trials, together! Profile 中村 健一 (Kenichi Nakamura, MD PhD MBA) 国立がん研究センター中央病院 国際開発部門長 / 院長特任補佐 京都生まれ、京都育ち。現在は妻とAiboと築地で暮らしています 大学卒業後、外科医として7年間の臨床経験を積み、2006年より国立がん研究センター中央病院で臨床試験・治験の運営・管理にあたる。元外科医なのでみなさんの体型を見るとだいたい胃の形がわかります オンライン治験、アジア臨床試験ネットワークの構築、生成AIによる治験関連文書の自動作成など多数の新規プロジェクトを手掛けています 生成AIの動きの速さに焦りを感じてTech 0の門を叩きました グロービス経営大学院卒業（アルムナイアワード2024受賞） キャリアインタビュー記事はこちら👇 Life Journey：アジアの癌治療を変えていくシリアルイントラプレナーとしての挑戦 次はテックだ！みなさんよろしくお願いします Favorites 普段は仕事に追いまくられていますが、たまに色んな所に行ったり、身体を動かしたりしてストレス解消しています。 アジア 仕事柄アジア各国によく出かけます 登山 毎年夏には北アルプスに籠もります Aibo Aiboとたわむれるのが日課です サウナ 仕事のストレス解消はこれに限る 飲み会 気の置けない仲間との飲み会が最高ですね 南の島 南の島は心が洗われますね Projects 臨床試験・治験に関連した新しい取り組みにチャレンジしています。 ご興味のある方は各プロジェクトのページをご覧ください。 ATLAS アジア10か国40施設が参加する多国籍がん臨床試験ネットワークを構築しています オンライン治験 DCT オンライン診療によって日本のどこからでも国立がん研究センターの治験に参加できる新たな仕組みです 生成AI x 治験 生成AIを利活用して治験関連文書の自動作成に取り組んでいます MASTER KEYプロジェクト 希少がんの医薬品開発にアカデミア、企業、患者団体が一体となって取り組んでいます JCOG 日本最大のがん臨床試験ネットワークで多くのがん種に対する標準治療の革新に取り組んでいます そして未来へ・・・ さらに時代を先取りする取り組みを続けていきます Consultation 国際共同試験、オンライン治験（DCT）、先進医療、医療系ベンチャー支援についての コンサルテーションを無料で受け付けています。 もし業界の方がおられたら、お気軽にお問い合わせください 👍 各種コンサルテーションはこちら Contact",
+    "links": [
+      "https://mba.globis.ac.jp/future/kenichi_nakamura/",
+      "https://atlas.ncc.go.jp/",
+      "https://www.ncc.go.jp/jp/information/pr_release/2025/0826/index.html",
+      "https://www.nikkei.com/article/DGXZQOUF23AOZ0T20C25A3000000/",
+      "https://www.ncc.go.jp/jp/ncch/masterkeyproject/index.html",
+      "https://jcog.jp/",
+      "https://www.ncc.go.jp/jp/ncch/division/international_development/index.html",
+      "https://www.ncc.go.jp/jp/ncch/division/clinical_research_support/consultation/index.html"
+    ],
+    "word_count": 71,
+    "crawled_at": "2026-03-22T16:38:24.701706",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://lighthearted-sprinkles-bc3c17.netlify.app/",
+    "title": "Nishiyama-Yuki-12",
+    "description": "",
+    "keywords": [],
+    "full_text": "Yuki Nishiyama KYODO NEWS Profile 西山侑希（にしやまゆうき）Yuki Nishiyama 生年月日 1996年10月16日 出身地 茨城県のド田舎 経歴 18歳まで電車もバスもない町で育ちながら東京を夢見る。 大学は念願の東京に進出するも、中央大学の多摩キャンパスというへき地に絶望する。 なんとか4年で卒業し、新卒で信用金庫に入庫するも半年でスピード退社。 株式会社共同通信社に入社、企業の広報支援に関する営業を担当している。 What I do 記事体広告 Web記事で情報発信 伝えたい内容を分かりやすく伝えます 海外プレスリリース 海外のメディアへ情報発信 現地語の翻訳もお任せください イベント企画 イベントの運営から露出までまるっと アスリートのスポーツ教室も My hobbies Basketball 週1回くらい目標に細々と Baseball ヤクルトファンで神宮にいます Trip 月1回の旅行が生きがいです ？？？ M-1グランプリに出ました",
+    "links": [
+      "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%B5%90%E5%9F%8E%E9%83%A1%E5%85%AB%E5%8D%83%E4%BB%A3%E7%94%BA/@36.1778065,139.8150427,12z/data=!3m1!4b1!4m6!3m5!1s0x6018ae803ab602b1:0xa2f57f7171d3408a!8m2!3d36.1790682!4d139.8902917!16zL20vMDNrbnZ2?coh=277535&entry=tt",
+      "https://ovo.kyodo.co.jp/",
+      "https://www.kyodo.co.jp/corp/global_pr/",
+      "https://www.kyodo.co.jp/corp/service/#nm-contents",
+      "https://slamdunk-movie.jp/",
+      "https://www.yakult-swallows.co.jp/",
+      "https://www.m-1gp.com/combi/33951.html"
+    ],
+    "word_count": 38,
+    "crawled_at": "2026-03-22T16:38:25.918127",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://cheerful-mousse-8433ac.netlify.app/",
+    "title": "自己紹介 | 経理 × テクノロジー",
+    "description": "",
+    "keywords": [],
+    "full_text": "Profile 名前： 西山 祐太 生年月日： 1988年10月24日 居住地： 福岡県福岡市 最近恥ずかしかったこと 30年以上勘違いしていたことがありました。右の画像（下手な絵ですみません）のような糊を、幼稚園で使っていた方多いのではないでしょうか。皆さんは、こちらの容器は何をモチーフにした形だと思いますか？私はこれをずっと「ひよこ」だと思っていました。つぶらな瞳、小さなくちばし、かわいらしい羽。ひよこに見えませんか？ 趣味：野鳥観察 野鳥観察が好きです。私が外で上を見てぼーっとしていたら視線の先には鳥がいます。 1年後のビジョン Will システム・プログラム・生成AIなどあらゆるテクノロジーを積極的に活用できる組織作り Can 経理とテクノロジーをどちらも高いレベルで実行できるハイブリッドスキル Must 社内にテクノロジーを積極的に活用できるような環境整備と人財育成",
+    "links": [],
+    "word_count": 19,
+    "crawled_at": "2026-03-22T16:38:26.937305",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://incomparable-sundae-bd5148.netlify.app/",
+    "title": "Kosuke",
+    "description": "",
+    "keywords": [],
+    "full_text": "Profile 横山 幸典 Kosuke Yokoyama / tech0 12期生 4クラス エネルギー業界で23年に渡り、BtoB営業と商業戦略の最前線に立ってきました。 法人向けの提案営業を軸に、飲食業界を含む多様な業種の課題解決に携わってきた経験があります。 現在は秘書として、培った洞察力と実行力を経営サポートに活かしています。 Vision エネルギーの未来を、Techで創造 経営層に対するサクセッションプラン提示により、会社の変革をリードする。 Step01.エンジニアリングスキルの習得 tech0を通じて、エンジニアにおける基本スキルを身につけ、アイデアを形にする力を養います。 Step02. 現場課題のデジタル化 エネルギー業界特有のアナログな課題や秘書としての現場課題に対し、データ活用の基盤を作ります。 Step03. AIによる最適化の実現 予測モデルや最適化アルゴリズムを導入し、効率的な経営に貢献します。 Love 🍜 ラーメン 塩分度外視、carbs × carbsのマリアージュ❤ 転勤する度に美味しいラーメンに出会ってきました。 とんこつも好きですが、家系や酸辣湯麵が最近のお気に入り。 情報交換、いつでもお待ちしております！ 🐭 ディズニー ディズニーリゾートは家族みんな大好き。 娘は生まれてから毎年行ってます。 アナ雪大好きな娘の為、長時間並びはあたり前。 効率的なパークの周り方をご存じの方がいればぜひ教えてください！ 💻 ガジェット関連 昔から好きなガジェット関連。 暇があればYouTubeでモニタや充電器、ケーブルなんかの動画見てます 今はモニタとキーボード探して最適な環境づくりを検討中です！ 大相撲 仕事の絡みで接点を持つことになった大相撲。 学生時代は若貴ブームで流行っていました この前九州場所も観戦しましたが生は最高です 推している部屋は春日野部屋です Contact",
+    "links": [
+      "https://tabelog.com/nagasaki/A4201/A420101/42000826/",
+      "https://www.tokyodisneyresort.jp/",
+      "https://connectinternationalone.co.jp/",
+      "https://www.sumo.or.jp/"
+    ],
+    "word_count": 49,
+    "crawled_at": "2026-03-22T16:38:29.100881",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://relaxed-trifle-4159b3.netlify.app/",
+    "title": "HIRATA Mako - Portfolio",
+    "description": "",
+    "keywords": [],
+    "full_text": "HIRATA Mako 平田 真子 Consultant 1985.01.19 / やぎ座🐐 / O型 大阪市出身 / 東京都在住 ※大阪出身ですがたこ焼きは丸く焼けません🐙💦 Follow Me Profile 略歴 大学卒業後、2008年に環境配慮型商品を企画・販売する商社に入社。ライフスタイル事業部にて営業、商品企画を経験。商品企画では同社初となる自然派フェムケアブランドの立ち上げを行う。2016年より研修で西オーストラリア州TAFEに留学。帰国後、シニアマネージャーとして事業部門のメンバー育成、輸出事業の拡大を行いながら全体統括を経験。現職コンサルティングファームでは、アドバイザリーとして主にDX実行支援、組織変革、新規事業立ち上げ支援に従事。 Tech0との出会い・参加理由 きっかけ：大学院（グロービス）の友人が多く通っており興味を持ちました。 想い：現職でTech系プロジェクトが増え、独学の限界を感じていました。「Techアレルギー」を克服し、体系的に学ぶために決意しました！ My Will/Can/Must Tech0受講前 (現在) Will (したいこと) 「高齢者×デジタル」で、テクノロジーの恩恵を高齢者がストレスなく享受できる社会を実現したい。 0→1の企画推進や、新規マーケットの開拓など、新しい価値を創造する仕事に熱中したい。 Can (できること) 強み：新規事業開発。構想を形にする0→1の企画推進力（前職では日用消費財のブランド立ち上げ）。海外事業開発、マーケティング。 弱み：複雑な要件の定義、IT/デジタルの実装知識。 Must (すべきこと) Tech案件での成果：「生成AI活用プログラム」等の提案で、技術トレンドを顧客課題解決につなげる。 技術とビジネスの接続：技術シーズをビジネス文脈に翻訳し、ステークホルダーに説明する役割。 Tech0卒業後 (1年後) Will 「高齢者×デジタル」の構想を、実際のプロトタイプや具体的な事業計画に落とし込んでいる。 エンジニアやデザイナーと「共通言語」で議論し、チームをリードしてプロダクトを開発している。 Can 新規獲得スキル：Python/SQL等を通じた「プログラミング的思考（構造化思考）」の習得。 技術的素養：生成AIやWebアプリの裏側を理解し、実現可能性の判断ができる。 Must スキルを活かし、社内で顧客体験（UI/UX）設計や新規事業案件へのアサインを勝ち取る。 社外活動（プロボノ等）で実装を試みている。 2026年3月末に出産予定 第一子・男の子👦 を出産予定です！絶賛命名考え中です。 History Hobbies ✈️ Travel 直近2年はバリ島・台湾・韓国・ケニア・ドバイ・ベトナム・オーストラリアへ。新婚旅行は夢のケニアのサファリへ🦁 🍷 Wine 秋保ワイナリーでのプロボノ活動をきっかけにワインの沼へ。推しはソーヴィニヨン・ブランとシラーズ。 📚 Reading 最近は『薬屋のひとりごと』『三体』を愛読。東野圭吾、池井戸潤が書いた本は基本好きです。 🧘‍♀️ Yoga マタニティヨガ奮闘中。身体が硬すぎて先生に驚かれています。 Other Activities 秋保ワイナリー プロボノ グロービス経営大学院の卒業の方が取締役をされている仙台・秋保温泉郷の中心にある秋保ワイナリーで経営支援のプロボノをしていました。 震災で途絶えた宮城のワインづくりを復活させ、東北の食に寄り添うワインで地域を元気にしたいという思いから生まれたワイナリーです。 NPO法人 日本ビジネスケースコンペティション実行委員会 共同委員長 (2022) / 理事 (2023-) JBCC（Japan Business Case Competition）という全国のMBA生の頂点を決める、MBA生の甲子園（大会）を創るお手伝いをしています。 Contact お仕事のご依頼やご相談など、お気軽にお問い合わせください。",
+    "links": [
+      "https://www.facebook.com/mako.hirata.54/",
+      "https://www.instagram.com/maco_85.i.iq/",
+      "https://www.linkedin.com/in/mako-hirata-151764138",
+      "http://akiuwinery.co.jp/",
+      "https://www.jbccex.com/"
+    ],
+    "word_count": 85,
+    "crawled_at": "2026-03-22T16:38:29.601727",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://comforting-melba-1d4080.netlify.app/",
+    "title": "自己紹介ページ",
+    "description": "",
+    "keywords": [],
+    "full_text": "Takeshi Amiya Tech0 12期生です。プログラミングはド素人ですが頑張ります！ Profile 網谷 雄志（Amiya Takeshi） 学生時代は微生物の遺伝子をいじって新しい化合物を作らせたりしてました。 飲食品のメーカーで研究業務に従事しています。主な領域は生理学、生化学、分子生物学などです。 プログラミング等は未経験で、周りに頼りながらいじってみたことはありますが、何が何だかわからずでした。。 出身地：北海道札幌市 職業：飲食品メーカーの研究職 その他の基本情報： 経歴 趣味 ライブ お酒 運動 Contact",
+    "links": [],
+    "word_count": 20,
+    "crawled_at": "2026-03-22T16:38:30.644384",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://magnificent-griffin-64f6db.netlify.app/",
+    "title": "磯部仁美のプロフィール",
+    "description": "",
+    "keywords": [],
+    "full_text": "磯部 仁美 Isobe Hitomi 自動車団体で、社内DXと研修を担当 DX部（元システム部）へ異動後、IT研修や社内制度の設計を中心に取り組んできました。 でも自分自身は開発はできておらず、育休中の今、一念発起して学んでいます！ やりたいこと 育休中なので完全プライベート目線！笑 💗 家族に還元したい 私は楽しく勉強している間に、夫は皿洗いをして、娘は一人で遊んでいる。だからこそ、学んだことをこの二人に何かの形で還元したいい。 📸 増えゆく写真をどうにかしたい 娘の写真を撮りすぎて、iPhoneの容量が限界。似た写真を整理して、 ベストな1枚だけを残してくれるサービスがあったらいいなと思う一方で、娘の表情だけは、AIより自分の方がわかる気がする。 Will / Can / Must 現在 Will 相手を尊重し、誠実に向き合いたい。自分のペースや限界を理解しつつ、できることを頑張りたい。 Can 相手の気持ちや状況を察し、そっと支えることができる。育児を通じて、人に頼ることができるようになった。 Must 子どもを安全に、元気に育てること。体力や同時タスクの苦手さを意識し、無理をしない工夫をする。 1年後 Will 仕事と育児を楽しみながら両立する姿を、後輩に見せたい。デジタルを使って、形にすることにも挑戦する。 Can 頼る、手放す、優先順位をつけること。テクノロジーの知識を業務の中で実践していく。 Must 復職後、チームに貢献する。「戻ってきてよかった」と思ってもらえる存在でいる。 趣味 猫 猫はかわいい snowman 舘様ファン 娘 一緒にいると楽しい 断捨離 掃除大好き",
+    "links": [],
+    "word_count": 44,
+    "crawled_at": "2026-03-22T16:38:31.338993",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://silly-sundae-0c1a1e.netlify.app/",
+    "title": "Self-introduction_Kose",
+    "description": "",
+    "keywords": [],
+    "full_text": "小瀬 俊介 / こせっち 志 全ての人が安全に移動できる世の中を実現させる About Me ものづくりの現場で長く働きながら、人と組織、そして「続けること」の大切さを学んできました。 学生時代から続けているバドミントンは、私にとって単なる趣味ではなく、物事と粘り強く向き合う姿勢を形づくってきた存在です。 仕事や学び、そして家庭での経験を重ねる中で、 物事は単純な正解だけでは語れないと感じるようになりました。 今は、現場や日常の中で生まれる違和感を大切にしながら、より良いやり方を考え続けています。 Profile 出身地：岐阜県高山市 高山祭り 春と秋に高山祭が開催されます。春は特に桜も咲いていてとても綺麗です。山車のカラクリは見応えがありますよ！ 赤い中橋 よくテレビに映る観光名所です。春は桜、夏は新緑、秋は紅葉、冬は雪景色で四季折々の素敵な風景が楽しめます。私の通学路でした^^ 漬け物ステーキ あまり知られていない郷土料理：漬け物ステーキです。妻が大絶賛してました。簡単に作れるので是非作って食べてみてください！ 居住地：愛知県日進市 日進市 愛知県日進市は名古屋市に隣接する利便性と、豊かな自然が調和したまちです。愛知牧場をはじめ、ジブリパークや大型商業施設へのアクセスも良く、暮らしやすさと魅力を兼ね備えています 愛知牧場 牛や馬とのふれあいや乳しぼり体験が楽しめる観光牧場。四季の花畑や濃厚ジェラートも人気で、家族連れに親しまれています。 ジブリパーク 隣の長久手市にある愛・地球博記念公園内に広がるジブリパークは、スタジオジブリ作品の世界を体感できるテーマパーク。自然と共存した空間で、物語の舞台を歩く感動を味わえます。 Hobby & Skills バドミントン 物心つく頃から始め、今も地域のクラブチームで続けています。仲間の大切さ、諦めない心、自分を信じる心など、多くのものをバドミントンから学び、私を形作ってきたものの一つです。 DIY 基本、何か物を作ることが好きです。修理とかも自分でやります。最近はガス給湯器の修理をしました。Tech0で新たにスキルが増えるので、これを使って新しいものを作りたいなと思っています！ タイマッサージ タイ赴任中にノリで友人と資格取りました。妻に教えて自分がマッサージ受けるはずが、やってあげた時に痛すぎたらしく二度とやらないでと言われました... Career 斐太高校 全国で唯一白線流しをやっている高校でした。ドラマのモデルにもなってます！ 早稲田大学・大学院 大学時代は体育会バドミントン部に所属し、勉強そっちのけでバドミントンに打ち込む。 大学院時代はロボットの研究に泊まり込みで打ち込む日々を過ごす。 トヨタ自動車 下山工場 製造ラインの保全や改善業務を通して、何度も失敗しながら工場運営を学ぶ トヨタ自動車 STM工場＠タイ 初の海外出向で信頼関係の重要さを学ぶ。ちなみに英語も日本語もほとんど通じない環境だったので必死でタイ語を勉強！ トヨタ自動車 本社 新エンジンのプロジェクトに生産技術として参画し、エンジンを生産するための製造ラインを構築。人生で一番の修羅場も経験し、精神的にもスキル的にも大きく成長 トヨタ自動車 下山工場 今までとは異なるエンジン排気系部品の生産ラインを担当。初の領域でも、今まで身につけたスキルで乗り越え、経験と成功体験を積む トヨタ自動車 上郷工場 生産技術・製造技術の立場でレース用エンジンのプロジェクトに参画。MBAも学びながら今までのスキルや経験を総動員し、新しい生産ライン構築にチャレンジ中！ My Story 苦しかったこと 大学の部活で監督が来た時は練習が地獄でした。階段上り下り３時間、ダッシュインターバル３時間、1日中フットワークetc...よくやったなぁと思います。そのおかげで成長できたのですけどね！ 恥ずかしかったこと 出身の高山には電車はなくディーゼル機関車が走っていました。なので高校まで、私は電車っぽいものは全部「汽車」と呼んでいました。そんな中、大学入学に伴い状況し、友人に「汽車（山手線のことのつもり）乗って帰ろう」と言ったら大笑いされました(T_T) 心が動いた経験 先日、初めてディズニーのバケーションパッケージを購入し、Reach for the starsのプロジェクションマッピングのショーを最前列で鑑賞しました。言葉で言い表せないほど素晴らしく、心が動いた体験でした^^私もそのようなモノやサービスを提供したいなと思いました！",
+    "links": [
+      "https://www.hidatakayama.or.jp/"
+    ],
+    "word_count": 69,
+    "crawled_at": "2026-03-22T16:38:33.054227",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://sparkly-gingersnap-7a4927.netlify.app/",
+    "title": "LPサイト",
+    "description": "",
+    "keywords": [],
+    "full_text": "ようこそ、ZATの部屋へ TECH初心者ですが、登頂目指します。 PROFILE 都市ガス会社の秘書部に所属してます HISTORY 1968年 熊本県松橋に生まれる 1984年 高校に進学し、陸上部で活動 1988年 自分で走るのがつらかったので、大学では発想を転換して馬術部へ 1993年 大学をゆっくり卒業し、都市ガス会社へ入社。庶務・決算・財務・グループ経営支援などを経験 1994年 結婚。その後、娘が誕生（現在27歳） 2007〜2025年 日本ガス協会へ出向。皇居を拠点にランニング同好会を立ち上げ、出向後も年1回ご当地マラソンに参加 2015年 別府大分毎日マラソンを完走 2023年 グロービスと連携し、グループ会社経営層・親会社幹部向けの経営リテラシー研修を企画・運営 CONTACT Instagramからお気軽にどうぞ",
+    "links": [],
+    "word_count": 23,
+    "crawled_at": "2026-03-22T16:38:33.552122",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://my-favorite-books-2025.netlify.app/",
+    "title": "Bootstrap demo",
+    "description": "",
+    "keywords": [],
+    "full_text": "私の好きな本を紹介します これまで読んできた本の中で感動した、印象に残った本を厳選して紹介します。 小説 Novel カフネ 最後まで読むまでに何度も泣きました。だれかと一緒にご飯を食べることの素晴らしさを教えてくれます。 みをつくし料理帖シリーズ さまざまな困難を乗り越えて成長している主人公の澪の姿に思わず応援してしまいます。料理の描写が素晴らしい。 海辺のカフカ 20代の頃に読んで特に印象に残りました。主人公の少年が生霊に恋をし、亡くなっている恋人に嫉妬する姿が生々しかった。 ビジネス・自己啓発 Business レバレッジ・リーディング 社会人3年目くらいでこの本に出会い、本を多く読むきっかけになりました。 運転者 未来を変える過去からの使者 物語形式の自己啓発で主人公が自分と重なるため感情移入して読んでしまいました。プラス思考の考え方が変わる一冊です。 ストーリーとしての競争戦略 たくさんの経営戦略の関連書籍の中でも読みやすく企業の事例も豊富。スタバのストーリーはすごく面白かったです。 漫画 Comics 葬送のフリーレン 今絶賛どハマり中。とにかく世界観が好きです。1000年以上生きるエルフの時間の使い方がすごすぎます。 MONSTER 大学生の時に読んで衝撃を受けた1冊。それまでジャンプやサンデーといった少年漫画ばかり読んでいたので、ストーリーに思わず引き込まれました。 ドラゴンクエスト ダイの大冒険 ジャンプ漫画の王道とも言っていいストーリーで子どもの頃のドラクエブームも重なって毎週ジャンプで楽しく読んでいました。大人になって読むとまた違った感覚で読めて、そして何よりもポップの熱さに胸が熱くなります。 推しの書店 Recommend Book 丸善 丸の内本店 東京駅直結で、品揃え豊富! 疲れたら3Fのカフェで休憩(小倉トースト最高!) もっとゆっくりするならPersonal Loungeへ 自己紹介 Profile YASUSHI MICHISHITA",
+    "links": [
+      "https://amzn.asia/d/47LYScK",
+      "https://amzn.asia/d/2FgSTww",
+      "https://amzn.asia/d/5VqCJq5",
+      "https://amzn.asia/d/hFmLYl8",
+      "https://amzn.asia/d/jaZ6w3L",
+      "https://amzn.asia/d/8zSTs6i",
+      "https://amzn.asia/d/e1D4AWO",
+      "https://amzn.asia/d/0JxtvSu",
+      "https://amzn.asia/d/dGrWDkR",
+      "https://honto.jp/store/detail_1572000_14HB310.html"
+    ],
+    "word_count": 41,
+    "crawled_at": "2026-03-22T16:38:34.073781",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://creative-piroshki-7fcc0d.netlify.app/",
+    "title": "宮島彰 | 自己紹介ポートフォリオ",
+    "description": "",
+    "keywords": [],
+    "full_text": "About Me 宮島 彰 (Miyajima Akira) 1973年生まれ、神奈川県出身。音楽ライブの撮影をきっかけにデザインの世界へ。 レコード会社での制作、フリーランスを経て、現在は中堅外食企業でDX推進に取り組んでいます。 「現場の素敵な仲間が、クリエイティブに集中できる環境を作りたい」 その想いを胸に、デジタルと仕組みで現場を支えるため、Tech0（10期生）にて学び直しに挑戦中です。 Interests & Hobbies カレー作り スパイスから作ることにハマっています。「人はおいしいものを食べさせたい」という欲求がある！（当たり前か） 筋トレ・ランニング 健全な魂は健全な肉体に宿る（と信じて）。体力をつけることで、仕事のパフォーマンスも向上させています？正直昼寝したい。 歴史・ラジオ ポッドキャスト「COTEN RADIO」のヘビーリスナー。歴史から人間理解を深め、DX推進のヒントにしたいです Contact",
+    "links": [],
+    "word_count": 21,
+    "crawled_at": "2026-03-22T16:38:35.392638",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://eloquent-cranachan-b211cf.netlify.app/",
+    "title": "kenshin",
+    "description": "",
+    "keywords": [],
+    "full_text": "About 名前：坂本 拳真（さかもと けんしん） 年齢：25歳 出身：大分県大分市 在住：名古屋 職業：冷凍食品メーカー 営業 趣味：古着・ゲーム・漫画・ホラー Career カヌー部期【高校】 高校はカヌー部。なんとなくで入ったら全国常連の強豪。あれ以上の地獄はありません。僕の青春はまだ大分川を漂っています。 アカペラ期【大学】 二度と運動部には入るまいとアカペラサークルへ。ゆるゆるで最高でしたが体型もゆるゆるに。15kg増。 冷食営業マン期 冷食メーカー マルハニチロへ入社。配属希望を東京or福岡で提出。間をとって名古屋配属。そういうことじゃない。 tech0期 キャリアアップのためtech0を受講!テック人材目指して奔走中。 Hobby 古着 No古着NoLIFE 大学ではまり今では部屋が服まみれに。写真は今血眼で探しているbanana repubricのバック。見つけたらご一報を! ゲーム 友人と夜な夜なゲーム。大人になればやめると思っていましたが加速しました。好きなゲームはDeath Stranding・OW2・apex。やってる方はぜひ! スキューバダイビング 大学時代は福岡の志賀島でダイビング！のめりこんでドライ購入＆レスキューダイバーライセンス取得！最近は離れていましたがそろそろ再開したいです。 ホラー小説 最近のマイブーム。活字は苦手ですがこのジャンルならスラスラ読めます!ネットで読めるものでおすすめまとめました。 Contact ご意見・ご質問はこちらからお気軽にお寄せください！",
+    "links": [
+      "https://note.com/hashtag/%E7%A6%8D%E8%A9%B1%E3%83%AA%E3%83%A9%E3%82%A4%E3%83%88",
+      "https://kakuyomu.jp/works/1177354054890860270"
+    ],
+    "word_count": 34,
+    "crawled_at": "2026-03-22T16:38:35.933506",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://glittery-manatee-56f22a.netlify.app/",
+    "title": "Ogawa Takuya | メカニカルエンジニア × テック × MBA",
+    "description": "",
+    "keywords": [],
+    "full_text": "テクノロジーの力で、 社会を豊かに。 Profile 小川 拓也（OGAWA TAKUYA） ＜出身・居住地＞岡山県出身・滋賀県在住 ＜仕事＞モータ設計・開発に関わる全般業務（開発部） ＜経歴＞メカニカルエンジニア：約13年 プロジェクトリーダー：約6年（兼務） 品質管理マネジメントシステムの推進：約6年（兼務） Hobbies カメラ 5年ほど前にミラーレスを購入し、ほこりを被っていました。子どもが生まれて仕切り直し！ キャンプ/焚き火 ズボラ、楽したい、でも自然が好き！年に数回の焚き火がちょうどいい。 息子たち 昨日できなかったことが今日はできる。成長を見守るのが楽しみ。 お問い合わせフォーム",
+    "links": [],
+    "word_count": 19,
+    "crawled_at": "2026-03-22T16:38:36.872082",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://6949666c387becb9a4d4b0bd--superb-duckanoo-b82553.netlify.app/",
+    "title": "てらのゼロからの完走ナビ",
+    "description": "",
+    "keywords": [],
+    "full_text": "最新情報 母と走った42.195km。 ペーサーとして母を支えるはずが、苦しい局面で他人を応援し続ける母の強さに、私の方が引っ張られていました。 🔗 Instagramで詳しく見る 母と走った42.195km。 ペーサーとして母を支えるはずが、苦しい局面で他人を応援し続ける母の強さに、私の方が引っ張られていました。 初マラソン。まさかの大失速。 順調だった18km以降の暗転。足が攣り、ぐちゃぐちゃになったフォームを見て「体は正直だな」と笑うしかありませんでした。 🔗 Instagramで詳しく見る 初マラソン。まさかの大失速。 順調だった18km以降の暗転。足が攣り、ぐちゃぐちゃになったフォームを見て「体は正直だな」と笑うしかありませんでした。 64歳からの挑戦、その背中を追いかけて。 安曇野ハーフマラソン、母と二人で完走しました。ここは、僕の祖母（母の母）の故郷。絵画のような景色の中での21km。 🔗 Instagramで詳しく見る 64歳からの挑戦、その背中を追いかけて。 安曇野ハーフマラソン、母と二人で完走しました。ここは、僕の祖母（母の母）の故郷。絵画のような景色の中での21km。 走ることについて 2025年1月、なんとなく正月の目標で「とりあえず」始めてみたランニング。 ストイックに追い込んだわけではなく、日々の試行錯誤を楽しみながら続けてきたら、いくつか嬉しい変化がありました。 1. 身体が軽くなった 気づけば体重が10kg以上減り、毎朝の目覚めが良くなりました。 特別な食事制限より「走るのが楽しくて続いていた」結果、健康診断の数値も正常に戻っていました。 2. 思考の整理整頓 走る時間は、自分にとっての「デジタルデトックス」。 MBAでの学びを仕事にどう活かすか、といった複雑な課題も、走っていると不思議とシンプルに整理されていきます。 3. 仲間との会話が弾む 意外にも周囲にランナーは多く、「実は私も」と会話が弾むきっかけに。見た目の変化もあって、久しぶりに会う人との話題にも困らなくなりました。 4. ご褒美が美味しくなる 走った後に作るおつまみやワインが格段に美味しく感じます。「しっかり動いたから大丈夫」という適度な開放感が、日々の暮らしをより豊かにしてくれました。 「PMへの挑戦」と「育児」のバランス 走ることで体力がついたせいか、仕事の新しい挑戦（PMへの転身）や、2024年に生まれた息子との遊びも、以前より全力で楽しめるようになった気がします。 愛知の街をのんびり走る時間は、今では大切なリフレッシュの時間です。 Running Tips シューズの選び方 初心者はクッション性を重視。流行りのカーボン入りのシューズは、陸上経験者、もしくはフルマラソン3時間30分をきるランナー向け。夕方にフィッティングするのがコツです。 水分補給の基本 喉が渇く前に少しずつ。スポーツドリンクで電解質も補いましょう。フルマラソン中盤以降はカフェインで体の目を覚まします。フルマラソンのエイドにコーラが会った時は驚きました（めちゃうまい） ストレッチ 走る前は動的ストレッチ。体を温め、関節を動かします。走った後は静的ストレッチ。股関節周り、前ももをほぐすと翌日が楽になります。 まずは見てほしい動画 ランニングを始める上で参考になるのがYouTube。お気に入りのYouTuberを見つけて、その人の動画を見ていくと参考になるだけでなく、モチベーションの維持にもつながります。私のおすすめを紹介します。 三津家貴也さん今一番勢いのあるランニング系ユーチューバー（ランチューバー）。明るい性格と爽やかな笑顔で見てるだけでモチベーションが上がります。筑波大学でランニングの研究をしていたので説得力があります Runtrip「もっと自由に楽しく走れる世界へ」を掲げている団体。走り方やストレッチの方法、おすすめのグッズなど初心者が知りたい情報を網羅してくれています。 うたラン/UtaRun SUIさん。シンガーソング・ランナーとして初心者から中級者向けのトレーニングを多数紹介してくれています。階段が登るのもきつかったところから少しずつ練習を始めた方なので解説もわかりやすいです。 正しい方法はない。とりあえず走ってみる、が大事。 靴さえあれば、どこでも, 誰でも始められるのがランニングの魅力です。 タイムや距離に縛られず、まずは外の空気を吸いに行くくらいの気持ちで、 ぜひ気軽に始めてみてはいかがでしょうか。もしレースに出場することがあれば、ぜひ一緒に走りましょう！！！ てら 初心者ランナー 🌏 1987年生まれ 📍 愛知県在住 📺 テレビ局勤務 👶 妻と2024年4月生まれの息子 🐈 猫2匹と暮らしています 👇よかったらフォローしてください👇 今日の天気と服装 🏃‍♂️ 初心者が抑えたい「3つの鉄則」 1.「走り出しに少し寒い」が正解 家を出た瞬間にちょうど良いと、15分後には汗冷えの原因に。「少し肌寒い」くらいがベストです。 2. 風速1mにつき体感温度は1℃下がる 気温が10℃あっても、風が強ければ5℃以下の装備を検討しましょう。 3.「首」がつく場所を温める 首・手首・足首をカバーするだけで体感温度は劇的に変わります。冬場のネックウォーマーは必須アイテム。",
+    "links": [
+      "https://www.instagram.com/p/DSfPKwGj8Bq/",
+      "https://www.instagram.com/p/DQhI3IPj15l/",
+      "https://www.instagram.com/p/DKZi4AOzcW4/",
+      "https://www.instagram.com/otsukai1234/",
+      "https://weatherwidget.org/ja/"
+    ],
+    "word_count": 81,
+    "crawled_at": "2026-03-22T16:38:38.685768",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://yukayamashitalp.netlify.app/",
+    "title": "Yuka Yamashita",
+    "description": "",
+    "keywords": [],
+    "full_text": "日々前進 Tech0 12期に1か月遅れで参加しました 家庭も仕事も趣味も諦めたくないと思いながら 日々あくせく生きている私の自己紹介です Overview 名 前：山下 由佳（やました ゆか） 生 年：1988年 出 身 地：山口県下関市 住 所：東京都 職 業：経営コンサルタント モットー：後悔しないように生きる Background 2013年 日系化学メーカーに就職 医療機器の事業企画として働く 2013年 日系化学メーカーに就職 医療機器の事業企画として働く 2019年 ドイツに駐在 社内公募で駐在枠を獲得し、フランクフルトで欧州の営業担当として働く。 苦しかったこと：英語はそこそこ勉強したものの、日常的に求められるドイツ語がわからず様々なトラブルに遭う。また、周りが家族で駐在している中、単身赴任をしたため、駐在後しばらくさみしい日々を過ごす 2019年 ドイツに駐在 社内公募で駐在枠を獲得し、フランクフルトで欧州の営業担当として働く。 苦しかったこと：英語はそこそこ勉強したものの、日常的に求められるドイツ語がわからず様々なトラブルに遭う。また、周りが家族で駐在している中、単身赴任をしたため、駐在後しばらくさみしい日々を過ごす 2020年7月 日本に帰国 やっとドイツに慣れてきたというときにコロナに。失意の中、日本に帰国し再び医療機器の事業企画として働く 2020年7月 日本に帰国 やっとドイツに慣れてきたというときにコロナに。失意の中、日本に帰国し再び医療機器の事業企画として働く 2023年 グロービスへ入学 もっと自分を成長させたいと思い、MBAにチャレンジ 2023年 グロービスへ入学 もっと自分を成長させたいと思い、MBAにチャレンジ 2024年 外資系経営コンサルティングファームへ転職 グロービスの学びを活かしたいと思い、コンサルに 2024年 外資系経営コンサルティングファームへ転職 グロービスの学びを活かしたいと思い、コンサルに 2025年 第一子を出産し、育休に入る グロービスと育児の両立に苦労しつつも、今しか勉強できないと思いTech0にも参加を決める 2025年 第一子を出産し、育休に入る グロービスと育児の両立に苦労しつつも、今しか勉強できないと思いTech0にも参加を決める Interests 大相撲 Youtubeのおすすめに力士の大食い動画があがってきたことがきっかけで、大相撲にはまりました。写真は地元山口で行われた巡業に行き、推し力士（若元春）に娘を抱っこしてもらったときのものです。 K-POP 昔からアイドルが好きで、最近はK-popにはまっています。特定のグループを推しているわけではなくいろいろ見る雑食です。写真はK-CONに行ったときのものです。 育児 7月に出産し、5か月の娘を育てています。産む前は子供がいてもいなくてもどっちでもいいと思っていたのですが、いざ産んでみるとかわいくて仕方ありません。先日は娘の初めてのクリスマスを記念して、フォトスタジオに写真を撮りにいきました。 Contact お気軽にご連絡ください",
+    "links": [],
+    "word_count": 68,
+    "crawled_at": "2026-03-22T16:38:40.136686",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://dancing-fairy-d7debd.netlify.app/",
+    "title": "My Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "Gallary Job Dairy ABOUT ニックネーム：Pちゃん 出身：岩手県 在住：栃木県 仕事：アウトドア小売り （予実管理/プロジェクトマネージャー） 趣味：登山、釣り、キャンプ、スノーボード他 アウトドア全般 HOBBY Trekking 社会人になってから某スポーツ量販店で担当になったことがきっかけで始める。転勤が続き、一人でもできる山登りにどっぷりハマる。何人かのグループで登るのも好き。 Camp キャンプも仕事の影響。アウトドアのゆる～い雰囲気が、割と自分の嗜好に合っているんだな～と実感しながら今でも年数回はテント泊。 Fishing 今の仕事に転職してから職場の先輩に誘われて始める。栃木・福島の渓流、中禅寺湖（奥日光）、西伊豆がメインのフィールド。 Snowboard 雪が降った翌日朝市のパウダーを滑るのが至高の瞬間。ただし、昔と違い2時間くらい滑っただけで疲労困憊…。ゲレンデランチして、コーヒー飲んで昼過ぎには帰ります…。ホームゲレンデは福島・会津のたかつえスキー場",
+    "links": [
+      "https://www.facebook.com/genki.fujisawa.1?locale=ja_JP",
+      "https://www.instagram.com/gf0401/"
+    ],
+    "word_count": 20,
+    "crawled_at": "2026-03-22T16:38:40.622173",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://sweet-taiyaki-d900aa.netlify.app/",
+    "title": "profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "「導入してよかった！」が自然に生まれる提案を。 Profile Asuka はじめまして、Asukaです。これまで学業や仕事、環境の変化の中で、「なぜそうするのか」「本当にそれでいいのか」を考え続けてきました。楽しかった経験や、悔しさを感じた出来事も多くありますが、それらはすべて、今の価値観や判断の軸につながっています。このページでは、私がどんな考え方を大切にしてきたのかを知ってもらえたら嬉しいです。 Aspiration 社会人 SEなりたての頃のこと。 構想含め５年かけて納品したシステムへの顧客の一言。 「使い物にならないシステムができましたね」 SE 「・・・。」 人はなぜ使えないシステムを導入してしまうのか？ どうすれば「導入してよかった！」と心から思えるプロダクトを作れるのか？ それを追求したい！ History 学生時代 大学：疫学×機械学習をテーマにがん患者の遺伝子を解析。苦手だったITもとりあえず手を動かしてやってみれば意外と楽しい！と実感。 就職 SIerでSEとして設計開発を担当。チーム全員が初めての挑戦で、試行錯誤を重ねながら進むことが求められた。手を止めず、仮の成果物を作っては短いスパンでレビューと修正を繰り返す日々。正解が見えなくても、動き続けることでしか道は開けないと学んだ経験だった。 台湾へ 夫の海外赴任帯同のため台湾へ。現地での子どもの入院、幼稚園探し、地震、家に害虫が住みつくなど、慣れない第２言語・環境に翻弄される日々…。分からないなら人に聞いてみよう！とりあえず行ってみよう！買ってみよう！試してみよう！で乗り切る。 将来 「使われないシステム」が生まれてしまう背景には、技術や仕様だけでは解決できないズレがあるはず…。そのズレに向き合い、人が心から「導入してよかった」と思えるシステムを実現したい。ユーザーの立場に立ち、設計判断を積み重ねられる人材になりたい。 Like 朝活 言語・IT・読書などその時一番興味のあることをやってみる自己啓発タイム。1日で一番フレッシュな時間を活用。約３年継続中…。 ヨガ 週１レッスンで約２年継続中。毎回ガチガチの肩をほぐす…。 週末 休日はもっぱらレジャーシートを持って家族と公園へ。無限大な子どもの体力をいかに発散させるか行き着いた答えがこれ！基本冬でも暖かい台湾では、日中の公園は家族連れでわんさか。テイクアウトのお弁当を食べたりボールで遊んだり走り回ったり…。各々自由に過ごします。 Contact Us",
+    "links": [],
+    "word_count": 32,
+    "crawled_at": "2026-03-22T16:38:41.701476",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://ibeshin5-tech0-v2.netlify.app/",
+    "title": "Shingo Ibe",
+    "description": "",
+    "keywords": [],
+    "full_text": "あなたの『覚悟』は･･･ この登りゆく朝日よりも 明るい輝きで 『道』を照らしている ＊\"ジョジョの奇妙な冒険\"より Tech0への挑戦を決めたあの日。 現状を変える覚悟。挑戦する覚悟。自分を信じる覚悟――。 朝日は誰にでも昇ります。 でも、夜明け前に立ち上がる人はそう多くありません。 あなたの「覚悟」は、朝日よりも力強い光。 それは、歩む道を照らし、明るい未来への確信を与えてくれます。 共に覚悟を決めた仲間とともに、その道を進もう。 About 名前：伊部 真吾（いべ しんご） 年齢：45歳 ＊同い年の有名人：松坂大輔、朝青龍、中村憲剛、山口一郎（サカナクション） 出身：千葉県松戸市 在住：神奈川県川崎市 仕事：アイウェアブランドの経営管理とDX･AI推進 Favorite eyewear 新卒で入社して以来、メガネ一筋23年。 毎年2~3本買っていて、 気づいたら50本以上持ってます。 cats ブリティッシュショートヘアが家に２匹います。 黒猫のヨルと、タヌキ顔のポン。 どちらも男の子です。 beer クラフトビールにはまり中。 ビアフェスにもよく行ってます。 野外で飲むの、サイコーです！ frontale 川崎フロンターレを10年間応援しています。 2025年シーズンは、ホーム全試合を スタジアムで観戦しました。 sauna 心身をリセットするために、 じっくりととのう時間が大切。 オススメは赤坂の\"スゴイサウナ\"です。 sakanaction 好きな曲は、\"ミュージック\"、 \"エンドレス\"、\"プラトー\"。 2025年は\"怪獣\"ツアーにも２回行きました。 Contact よかったらお気軽にご連絡ください！ Click me! 最後まで見てくれてありがとうございました！",
+    "links": [],
+    "word_count": 51,
+    "crawled_at": "2026-03-22T16:38:42.217607",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://koala-2nd-lp.netlify.app/",
+    "title": "Koala's Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "一歩、踏み出す。 Take The First Step. Koala is Learning IT to Grow and Evolve. About me 私について まず初めに、読んでくれてありがとうございます。 LPには世界観が大事。そんな先入観の元、ちょっと癖のあるページを作りました。 コアラ。 それは不思議な動物。 いつも寝てばっかりかもしれない。 それでもあなたの心を動かす何かを、コアラは持っている。 ・ある人は、コアラがユーカリを食べているのを見て、可愛いと言う ・ある人は、コアラが地上を歩いているのを見て、可愛いと言う ・ある人は、コアラがたとえ眠っているだけでも、可愛いと言う 私は、そんなコアラがうらやましい。 コアラを名乗るからには、寝て、食べて、一瞬だけ歩いて、過ごそう (本当はTech0の課題で、ずっとPCと向き合ってるのは、ここだけのヒミツ) Career 経歴 「技術と社会の橋渡し」 大学院の研究が半導体だった。流れで半導体エンジニアになった。 その後は、「技術と社会の橋渡し」ができる存在になりたいと思うように。 ご縁もあり事業開発とプロダクトマネージャーを経験。 突然の異動により、現在は社内業務効率化業務に従事。 ビジネスに関わりたいと思いながら、私の同僚「Copilot」と切磋琢磨している。 「Tech0」 ついに始まった。大きな一歩。 完走する。コアラなので歩いて。 Interests 趣味 和太鼓 始めてから、一年が過ぎました ゲーム Tech0が忙しいので、しばらくお預けかな 旅行 Perthはとっても良いところでした！",
+    "links": [],
+    "word_count": 47,
+    "crawled_at": "2026-03-22T16:38:43.832682",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://silly-seahorse-8aa2cd.netlify.app/",
+    "title": "武藤友磨",
+    "description": "",
+    "keywords": [],
+    "full_text": "テクノロジー×マーケティング About 武藤友磨 私は、ヘアメイクアップアーティストとして経験を積んだ後、デジタルマーケターとして化粧品会社、アパレル企業、そして今は株式会社みんなの銀行で銀行員として働き、「美」「ファッション」「金融」という分野を横断してキャリアを築いてきました。この経験にテクノロジーという視点を加え、さらなる可能性を探るため、テックゼロに通うことを決意しました。 Work history 2014.3月〜2019.2月 ヘアーメイクアーティスト 雑誌、広告、芸能関係のヘアメイクを担当 2014.3月〜2019.2月 ヘアーメイクアーティスト 雑誌、広告、芸能関係のヘアメイクを担当 2019.3月〜2022.9月 株式会社nijitoに入社 WEBマーケティング知識ゼロの状態で入社。最終は新規事業開発部で新規開発を担当 2019.3月〜2022.9月 株式会社nijitoに入社 WEBマーケティング知識ゼロの状態で入社。最終は新規事業開発部で新規開発を担当 2022.10月〜2025.5月 株式会社デイトナ・インターナショナルに入社 CRM関連や各種プロジェクトのPMを担当 2022.10月〜2025.5月 株式会社デイトナ・インターナショナルに入社 CRM関連や各種プロジェクトのPMを担当 2025.6月〜 株式会社みんなの銀行に入社 CRM関連やマーケティング戦略の領域を担当 2025.6月〜 株式会社みんなの銀行に入社 CRM関連やマーケティング戦略の領域を担当 Hobby ランニング コロナ禍から始めたランニングが、今では私にとって欠かせない「ウィルネス」の時間に。週に3回、多摩川沿いを6kmほど走り、心と体をリフレッシュしています。 登山 ランニングの延長で始めた登山はまだ初心者ですが、平地とは違う筋肉を使う感覚が新鮮で病みつきに。頂上で出会う絶景は、何物にも代えがたいご褒美です。 ガーデニング スタイリストの熊谷隆志さんの影響で20代から植物を集め始め、特にサボテンは長年のコレクション。趣味が講じてアパレルショップへの卸しまで行うようになりました。",
+    "links": [],
+    "word_count": 37,
+    "crawled_at": "2026-03-22T16:38:44.891267",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://celebrated-torrone-d50926.netlify.app/",
+    "title": "【LP2】Yusuke Shinoda",
+    "description": "",
+    "keywords": [],
+    "full_text": "2016-2018年 まずは1に集客、2に集客、3に集客 2019年 啓蒙活動が徐々に実り4750人集客 2019年 リーグの中で観客数TOPを受賞 2022年 子供たちの機会の為に日本へ 2023年 更なる機会の創出の為に新スタジアム構想 2024年 新スタジアム完成 2024年 こけら落としで満員 2025年 道半ばの闘いはまだここから\"ACLへ\" Profile 名前 ：篠田 悠輔（しのだ ゆうすけ） 出身地 ：神奈川県寒川町 居住地 ：東京都とカンボジア 仕事 ：日本ではコンサル業(業務改善・支援)とインバウンド事業を経営、カンボジアではプロサッカーチームと小口金融事業のマネジメントをしています カンボジア渡ってから今までの変遷 2度目のカンボジアへ 仕事の夏休みに2週間カンボジアへ。国の活気とサッカーのポテンシャルを肌で感じる カンボジアのプロサッカーチームへ転職 代表が5万人の観客、リーグは100人の観客。今後のポテンシャルとカンボジア単体黒字化をミッションにカンボジア就職 本拠地の移転 首都プノンペンにクラブが一極集中。サッカーはファンがいて成り立つ、世界遺産アンコールワットのあるシェムリアップへ移転 下積み時代、とにかく集客 ランチェスター戦略に感化されて、スタジアム半径5kmをターゲットにとにかく集客の為のアクション 小口金融事業の立上げ 勝利を目指すとどうしてもお金がかかる。長くクラブを存続する為に、新規事業として小口金融事業の会社・ビジネスをグループで立ち上げ 過去最高集客記録達成 決してプロの会場といえない環境だが、4750人の集客を実現。90分の声援や空気が喜怒哀楽のドラマを生む最高の瞬間 最高観客数アワードを受賞 予算は金満チームに及ばないが、集客ではナンバー1を達成 コロナで大打撃 リーグは一時中止。再開後も暫く無観客試合。街は観光で成り立っていたので崩壊 新スタジアム計画 徐々に経済は戻ってきたがまだ痛みがある状況。サッカークラブとしての価値は何か。新スタジアム構想へ 新スタジアムでのホーム開幕戦 2000人のサッカー専用スタジアムが工事開始から5か月で完成。遂に念願の自前スタジアム 目指す頂きはアジアチャンピオンズリーグ(ACL)出場へ 今目指している目標は、ACLに出場。アジアの国に勝利することでサッカークラブを通じたポジティブなものを創出する。 Angkor Tiger FC 事業 ：カンボジア1部リーグのプロサッカーチーム 創設 ：2015年 カテゴリー ：スクール生：U6～U15、アカデミー：U14～U18、トップ 体制 ：安永聡太郎監督、日本人コーチ、3人日本人選手所属 チャンス ：今シーズン上位2位で、2026年にACL2への出場権獲得！ ウェブサイト ： https://www.facebook.com/AngkorTigerFC.FFC Hobbies 釣り 船釣行きます。真鯛、イカを釣りたい 魚を捌く 昆布締め、熟成もします。ウメイロ、オオモンハタが美味。漁港で魚買います 家系ラーメン 家系総本山の吉村家か新橋の谷瀬家が好き アンコールワット 世界遺産アンコールワットで定期的にパワーチャージ。フリーパス持ってます",
+    "links": [
+      "https://www.facebook.com/AngkorTigerFC.FFC"
+    ],
+    "word_count": 75,
+    "crawled_at": "2026-03-22T16:38:46.207612",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://jocular-tanuki-b72dfd.netlify.app/",
+    "title": "My Portfolio | HIROTO UCHIYAMA",
+    "description": "",
+    "keywords": [],
+    "full_text": "| I'm a beginner in website building Profile 内山 洋人 1992年10月18日（33歳） 埼玉県川口市 汐留 妻、娘(4)、猫(♂9、♂7、♀5)、金魚(ピンポンパール) Career 地方新聞社 総合職で広告営業、イベント運営などを２年。報道カメラマンを２年やりました。カメラは初心者でしたが、なぜかスポーツ取材先ではタイトルには恵まれました。（野球：甲子園優勝/パリーグ優勝 サッカー：ACL優勝/天皇杯優勝） 出版系制作会社 制作物の営業や経済メディアの広告営業。書籍や雑誌が読み放題でした。子どもが産まれたのを機に、働き方を考えるようになりました。 通信社（報道） ビジネスマン向けセミナー、報道写真展、小学生向けプログラミング大会など主催事業の運営をしています。プログラミングの知識がない中で大会運営をしていているので、知識を身につけて出場者や関係者としっかりやり取りできるようになりたいです。。 Favorites Life with Cats 実家と合わせて25年猫と暮らしています。 Life Work 色んなスポーツを観ますが、週末の深夜にバルセロナとアーセナルの試合を中心に観るのがルーティーンです。しょっちゅうソファでそのまま朝を迎えます。 My Boom 家族で関東圏の色々な水族館を回っているうちにハマりました。コロコロしていたり間抜けな顔した魚が好きで、今のイチオシはトラフザメです。 Contact",
+    "links": [],
+    "word_count": 34,
+    "crawled_at": "2026-03-22T16:38:47.176263",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://profileyuto.netlify.app/",
+    "title": "Profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "Hello, I'm Yuto. A Glimpse Into My world ABOUT 上田 雄飛 / Yuto Ueda CAREER 2022年5月 - 2022年7月 Webメディアの金融系の記事作成を担当 2022年8月 - 2023年12月 暗号資産取引所にて約1年半、NFT関連業務に従事 2024年4月 - 現在 プランナーとして勤務中 NFTマーケットプレイスのUIUX周りを担当 プランナーとして勤務中 NFTマーケットプレイスのUIUX周りを担当 HOBBY Travel Sing Sauna",
+    "links": [],
+    "word_count": 34,
+    "crawled_at": "2026-03-22T16:38:48.222018",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://lucent-speculoos-608273.netlify.app/",
+    "title": "ポンコツ銀行員の自己紹介",
+    "description": "",
+    "keywords": [],
+    "full_text": "自己紹介 Yukio Yoshikawa 1998年～2025年 某メガバンクと地方銀行で法人営業に従事。 現在は3行目の銀行で金融×テクノロジーを軸に、新しい経済圏を作るミッションに従事 「仕組みで価値を生む」ことをテーマに、 新しい金融の形を模索しています。 好きなこと ドライブで知らない場所へ行くこと、音楽ライブの高揚感、 パワースポット巡りでリフレッシュする時間が好きです。 ドライブ お肉が好き ライブ鑑賞 パワースポット巡り やりたいこと 🚀 地方創生 × FinTech 💡 起業 🎸 武道館コンサート",
+    "links": [],
+    "word_count": 24,
+    "crawled_at": "2026-03-22T16:38:49.398719",
+    "crawl_status": "success"
+  },
+  {
+    "url": "https://rococo-taiyaki-138957.netlify.app/",
+    "title": "Andy's profile",
+    "description": "",
+    "keywords": [],
+    "full_text": "My Profile 名前：Andy (Class6,安藤吉貴) 出身・居住地：横浜 年齢：半世紀ちょい 職種：海外営業 Techを学び、世界と繋がっていきたいです 私の好きなものを紹介します。時代背景もわかるように用語説明も作りました。 1年間よろしくお願いいたします! 出身・居住地：横浜 年齢：半世紀ちょい 職種：海外営業 Techを学び、世界と繋がっていきたいです 私の好きなものを紹介します。時代背景もわかるように用語説明も作りました。 1年間よろしくお願いいたします! My favorite 旅行 気が付けば40カ国以上渡航していました。アフリカ、中央アジアに行きたい。 卒業旅行で猿岩石の真似をしてバックパック旅行 (トルコから陸路でイギリスまで) 海外出張では北米、南米（ブラジル、アルゼンチン、メキシコ等）、西欧、東欧（ブルガリア、チェコ、クロアチア等）、中東（ドバイ、サウジ、イラン）、東南アジア（タイ、ベトナム、マレーシア等）、オセアニア、中国など スポーツ プロレス観戦。アントニオ猪木はお茶の間のヒーロー。プロレスはスポーツというよりはエンタメですね。 格闘技ジムで体力強化とダイエット。かなり良い運動になっています！ ジョギング、マラソン。体が動くうちに、サブ4を目指したい! 高校野球などスポーツ観戦は意外と好き エンターテイメント 音楽鑑賞（ボウイから始まり洋楽に流れパンク、UKロック（オアシス、ブラー）、なぜかファンク、フュージョンのようなオシャレ音楽に流れ、社会人になりカラオケ覚えるためJ-POP（ミスチルなど）に流れました。最近の音楽は疎い・・・ ギター弾き（完全にボウイの影響です！エリック・クラプトン >のように弾きたいけど、弾けない(涙)） 家族 妻とドラマ鑑賞（NHK朝ドラ・大河ドラマ、TBS日曜劇場はほぼ欠かさず見ています） 賑やかな息子達と保護犬のヨークシャーテリアを飼っています 旅行や食べることは好きな家族です。料理も好き 用語説明 猿岩石年代に、ユーラシア大陸をヒッチハイクで横断して日本中に大ブームを巻き起こした、有吉弘行さんがかつて組んでいたお笑いコンビ アントニオ猪木:『元気ですかー！』の叫びや『1、2、3、ダァー！』で知られる、昭和のプロレス黄金期を築き、後に国会議員も務めた伝説の格闘家 ボウイ氷室京介と布袋寅泰が在籍し、わずか6年の活動で日本のロックの形を変えて伝説となった、昭和最強の4人組ロックバンド オアシス、ブラー：1990年代にイギリスで社会現象を巻き起こし、2025年に16年ぶりの再結成・来日公演で再び世界を熱狂させた、洋楽ロック界の伝説的な二大ライバルバンド エリック・クラプトン：『ギターの神様』と称えられ、2025年にも日本武道館で110回目の公演を行うなど、80歳を超えてもなお世界中で愛され続けている、ロック界の生ける伝説 朝ドラ、大河ドラマ「朝ドラ」は半年かけて一人の女性の波乱万丈な一生を描く朝の顔、「大河ドラマ」は一年かけて歴史上の偉人の英雄伝を豪華に描く日曜夜の顔という、どちらも昭和から続くNHKの看板ドラマシリーズです。 お読みいただき、ありがとうございます。感想をお待ちしております！",
+    "links": [],
+    "word_count": 44,
+    "crawled_at": "2026-03-22T16:38:50.412563",
+    "crawl_status": "success"
+  }
+]
